@@ -87314,33 +87314,10 @@
         }
     },
     {
-        "name": "Дом кинo",
-        "logo": null,
-        "url": "http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
         "name": "Дом кино",
         "logo": null,
         "url": "http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8",
-        "category": null,
+        "category": "Movies",
         "languages": [
             {
                 "code": "rus",
@@ -87363,7 +87340,7 @@
         "name": "Дом Кино Премиум HD",
         "logo": null,
         "url": "https://sc.id-tv.kz/domkino_hd_38_39.m3u8",
-        "category": null,
+        "category": "Movies",
         "languages": [
             {
                 "code": "rus",
@@ -87382,29 +87359,7 @@
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
-    {
-        "name": "Дом Кино Премиум HD",
-        "logo": null,
-        "url": "https://sc.id-tv.kz/domkino_hd_38_39.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
+   
     {
         "name": "Домашние Животные",
         "logo": null,

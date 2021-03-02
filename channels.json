@@ -94216,29 +94216,6 @@
         }
     },
     {
-        "name": "ТНТ",
-        "logo": null,
-        "url": "http://iptv.ktkru.ru:8019/index.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
         "name": "Тольятти 24",
         "logo": "http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg",
         "url": "http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8",

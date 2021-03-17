@@ -93528,29 +93528,6 @@
     },
     {
         "name": "СТС",
-        "logo": null,
-        "url": "http://iptv.ktkru.ru:8013/index.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
-        "name": "СТС",
         "logo": "https://i.imgur.com/9RhbrLM.jpg",
         "url": "https://sc.id-tv.kz/STS_34_35.m3u8",
         "category": null,

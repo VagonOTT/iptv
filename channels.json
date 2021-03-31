@@ -22862,8 +22862,8 @@
     },
     {
         "name": "Cartoon Network",
-        "logo": null,
-        "url": "http://136.243.177.164/CARTOONNETWORK/playlist.m3u8",
+        "logo": "https://w7.pngwing.com/pngs/682/57/png-transparent-cartoon-network-logo-animation-cartoon-logo-text-cartoon-production-logo.png",
+        "url": "http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8",
         "category": "Kids",
         "languages": [
             {
@@ -22901,7 +22901,7 @@
     },
     {
         "name": "Cartoon Network",
-        "logo": null,
+        "logo": "https://w7.pngwing.com/pngs/682/57/png-transparent-cartoon-network-logo-animation-cartoon-logo-text-cartoon-production-logo.png",
         "url": "http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8",
         "category": "Kids",
         "languages": [
@@ -26049,29 +26049,6 @@
         }
     },
     {
-        "name": "Channel 1",
-        "logo": "https://i.imgur.com/iW5vhkb.png",
-        "url": "http://ott-cdn.ucom.am/s14/04.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
         "name": "Channel 2 News",
         "logo": "https://i.imgur.com/NmnXn2z.jpg",
         "url": "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
@@ -28975,63 +28952,8 @@
         }
     },
     {
-        "name": "Da Vinci",
-        "logo": null,
-        "url": "http://sc.id-tv.kz:80/DaVinci_38_39.m3u8",
-        "category": "Kids",
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "am",
-                "name": "Armenia"
-            },
-            {
-                "code": "az",
-                "name": "Azerbaijan"
-            },
-            {
-                "code": "by",
-                "name": "Belarus"
-            },
-            {
-                "code": "kg",
-                "name": "Kyrgyzstan"
-            },
-            {
-                "code": "kz",
-                "name": "Kazakhstan"
-            },
-            {
-                "code": "md",
-                "name": "Moldova"
-            },
-            {
-                "code": "ru",
-                "name": "Russia"
-            },
-            {
-                "code": "tj",
-                "name": "Tajikistan"
-            },
-            {
-                "code": "uz",
-                "name": "Uzbekistan"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": null
-        }
-    },
-    {
-        "name": "Da Vinci",
-        "logo": null,
+        "name": "Da Vinci Kids",
+        "logo": "https://photobro.ru/assets/img/davinci-resolve/davinci-resolve.png",
         "url": "https://sc.id-tv.kz/DaVinci_34_35.m3u8",
         "category": "Kids",
         "languages": [
@@ -30722,9 +30644,78 @@
         }
     },
     {
-        "name": "Domashny",
+        "name": "Домашний (Резерв)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
         "url": "http://ott-cdn.ucom.am/s88/index.m3u8",
+        "category": null,
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Домашний (+2)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2",
+        "category": null,
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Домашний (+4)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
+        "url": "http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2",
+        "category": null,
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Домашний (+7)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2",
         "category": null,
         "languages": [
             {
@@ -36201,29 +36192,7 @@
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
-    {
-        "name": "Friday!",
-        "logo": "https://i.imgur.com/CNOYAUN.png",
-        "url": "http://ott-cdn.ucom.am/s50/index.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
+
     {
         "name": "FS1 (Salzburg)",
         "logo": "https://i.imgur.com/HSRpYUl.jpg",
@@ -44965,29 +44934,6 @@
                 "code": "ukr",
                 "name": "Ukrainian"
             },
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
-        "name": "Kino 24",
-        "logo": null,
-        "url": "http://85.192.44.14/hls/Kino24Ru/playlist.m3u8",
-        "category": "Movies",
-        "languages": [
             {
                 "code": "rus",
                 "name": "Russian"
@@ -56218,10 +56164,10 @@
         }
     },
     {
-        "name": "NTV",
-        "logo": "https://i.imgur.com/i6wrwKy.png",
-        "url": "http://ott-cdn.ucom.am/s17/index.m3u8",
-        "category": null,
+        "name": "НТВ (Резерв)",
+        "logo": "https://iptvx.one/icn/ntv-white.png",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8",
+        "category": "News",
         "languages": [
             {
                 "code": "rus",
@@ -56237,24 +56183,72 @@
         "tvg": {
             "id": null,
             "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
+            "url": null
         }
     },
     {
-        "name": "NTV",
-        "logo": "https://i.imgur.com/J9EMPjf.png",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8",
-        "category": "Local",
-        "languages": [
+        "name": "НТВ (+1)",
+        "logo": "https://iptvx.one/icn/ntv-white.png",
+        "url": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2",
+        "category": "News",
+         "languages": [
             {
-                "code": "eng",
-                "name": "English"
+                "code": "rus",
+                "name": "Russian"
             }
         ],
         "countries": [
             {
-                "code": "ca",
-                "name": "Canada"
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": null
+        }
+    },
+
+    {
+        "name": "НТВ (+2)",
+        "logo": "https://iptvx.one/icn/ntv-white.png",
+        "url": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2",
+        "category": "News",
+         "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": null
+        }
+    },
+
+    {
+        "name": "НТВ (+4)",
+        "logo": "https://iptvx.one/icn/ntv-white.png",
+        "url": "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
             }
         ],
         "tvg": {
@@ -56264,48 +56258,25 @@
         }
     },
     {
-        "name": "NTV",
-        "logo": "https://i.ibb.co/4Jv1LRS/QP18ELE.png",
-        "url": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8",
+        "name": "НТВ (+7)",
+        "logo": "https://iptvx.one/icn/ntv-white.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2",
         "category": "News",
-        "languages": [
+         "languages": [
             {
-                "code": "tur",
-                "name": "Turkish"
+                "code": "rus",
+                "name": "Russian"
             }
         ],
         "countries": [
             {
-                "code": "tr",
-                "name": "Turkey"
+                "code": "ru",
+                "name": "Russia"
             }
         ],
         "tvg": {
-            "id": "NTV TR",
-            "name": "NTV TR",
-            "url": null
-        }
-    },
-    {
-        "name": "NTV",
-        "logo": "https://i.ibb.co/4Jv1LRS/QP18ELE.png",
-        "url": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8",
-        "category": "News",
-        "languages": [
-            {
-                "code": "tur",
-                "name": "Turkish"
-            }
-        ],
-        "countries": [
-            {
-                "code": "tr",
-                "name": "Turkey"
-            }
-        ],
-        "tvg": {
-            "id": "NTV TR",
-            "name": "NTV TR",
+            "id": null,
+            "name": null,
             "url": null
         }
     },
@@ -78707,29 +78678,6 @@
         }
     },
     {
-        "name": "TV1000 World Kino",
-        "logo": null,
-        "url": "http://195.189.105.158:9050/121/index.m3u8",
-        "category": "Movies",
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": null
-        }
-    },
-    {
         "name": "TV2000",
         "logo": null,
         "url": "http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8",
@@ -87314,29 +87262,6 @@
         }
     },
     {
-        "name": "Дом кино",
-        "logo": null,
-        "url": "http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8",
-        "category": "Movies",
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
         "name": "Дом Кино Премиум HD",
         "logo": null,
         "url": "https://sc.id-tv.kz/domkino_hd_38_39.m3u8",
@@ -87359,34 +87284,11 @@
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
-   
+
     {
         "name": "Домашние Животные",
         "logo": null,
         "url": "http://89.189.191.250/239.211.211.65/stream.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
-    {
-        "name": "Домашний",
-        "logo": null,
-        "url": "http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8",
         "category": null,
         "languages": [
             {
@@ -88005,10 +87907,125 @@
         }
     },
     {
-        "name": "Кино UHD",
-        "logo": null,
+        "name": "Кино UHD (Резерв)",
+        "logo": "https://telesputnik.ru/upload/iblock/6f5/images.png",
         "url": "http://188.35.9.26:16050/udp/238.0.16.1:69000",
         "category": null,
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Кино UHD (-2)",
+        "logo": "https://telesputnik.ru/upload/iblock/6f5/images.png",
+        "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-7200",
+        "category": "Movies",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Кино UHD (-4)",
+        "logo": "https://telesputnik.ru/upload/iblock/6f5/images.png",
+        "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-14400",
+        "category": "Movies",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Кино UHD (-6)",
+        "logo": "https://telesputnik.ru/upload/iblock/6f5/images.png",
+        "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-21600",
+        "category": "Movies",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Кино UHD (-8)",
+        "logo": "https://telesputnik.ru/upload/iblock/6f5/images.png",
+        "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-28800",
+        "category": "Movies",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Кино UHD (-10)",
+        "logo": "https://telesputnik.ru/upload/iblock/6f5/images.png",
+        "url": "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2&offset=-36000",
+        "category": "Movies",
         "languages": [
             {
                 "code": "rus",
@@ -88096,29 +88113,7 @@
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
-    {
-        "name": "Кинокомедия HD",
-        "logo": null,
-        "url": "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8",
-        "category": null,
-        "languages": [
-            {
-                "code": "rus",
-                "name": "Russian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "ru",
-                "name": "Russia"
-            }
-        ],
-        "tvg": {
-            "id": null,
-            "name": null,
-            "url": "https://iptvx.one/epg/epg.xml.gz"
-        }
-    },
+
     {
         "name": "Киномикс HD",
         "logo": null,
@@ -89473,6 +89468,52 @@
         "tvg": {
             "id": "muzsoyuz",
             "name": "МузСоюз",
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "TV1000 World Kino",
+        "logo": null,
+        "url": "http://195.189.105.158:9050/121/index.m3u8",
+        "category": "Movies",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": null
+        }
+    },
+    {
+        "name": "Дом кино",
+        "logo": null,
+        "url": "http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8",
+        "category": "Movies",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
@@ -90904,9 +90945,147 @@
     },
     {
         "name": "Первый канал",
-        "logo": null,
+        "logo": "https://i.imgur.com/iW5vhkb.png",
         "url": "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8",
-        "category": null,
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Первый канал (+1)",
+        "logo": "https://i.imgur.com/iW5vhkb.png",
+        "url": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Первый канал (+3)",
+        "logo": "https://i.imgur.com/iW5vhkb.png",
+        "url": "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+     {
+        "name": "Первый канал (+4)",
+        "logo": "https://i.imgur.com/iW5vhkb.png",
+        "url": "http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Первый канал (+5)",
+        "logo": "https://i.imgur.com/iW5vhkb.png",
+        "url": "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+     {
+        "name": "Первый канал (+6)",
+        "logo": "https://i.imgur.com/iW5vhkb.png",
+        "url": "http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Первый канал (+8)",
+        "logo": "https://i.imgur.com/iW5vhkb.png",
+        "url": "http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2",
+        "category": "News",
         "languages": [
             {
                 "code": "rus",
@@ -91570,10 +91749,78 @@
         }
     },
     {
-        "name": "Пятница HD",
-        "logo": null,
-        "url": "http://iptv.ktkru.ru:8016/index.m3u8",
-        "category": null,
+        "name": "Пятница! (Резерв)",
+        "logo": "https://i.imgur.com/CNOYAUN.png",
+        "url": "http://ott-cdn.ucom.am/s50/index.m3u8",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Пятница! (+2)",
+        "logo": "https://i.imgur.com/CNOYAUN.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Пятница! (+4)",
+        "logo": "https://i.imgur.com/CNOYAUN.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },{
+        "name": "Пятница! (+7)",
+        "logo": "https://i.imgur.com/CNOYAUN.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
         "languages": [
             {
                 "code": "rus",
@@ -91917,9 +92164,55 @@
 
     {
         "name": "Рен ТВ HD",
-        "logo": null,
+        "logo": "https://iptvx.one/icn/rentv.png",
         "url": "http://sc.id-tv.kz/RenTV_36_37.m3u8",
-        "category": null,
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Рен ТВ (+2)",
+        "logo": "https://iptvx.one/icn/rentv.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Рен ТВ (+7)",
+        "logo":  "https://iptvx.one/icn/rentv.png",
+        "url": "http://sc.id-tv.kz/RenTV_36_37.m3u8",
+        "category": "Entertainment",
         "languages": [
             {
                 "code": "rus",
@@ -92078,10 +92371,56 @@
         }
     },
     {
-        "name": "Россия 1",
-        "logo": null,
-        "url": "http://iptv.ktkru.ru:8002/index.m3u8",
-        "category": null,
+        "name": "Россия 1 (+1)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+     {
+        "name": "Россия 1 (+2)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+     {
+        "name": "Россия 1 (+3)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2",
+        "category": "News",
         "languages": [
             {
                 "code": "rus",
@@ -92101,10 +92440,10 @@
         }
     },
     {
-        "name": "Россия 1 (+6)",
-        "logo": null,
-        "url": "http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8",
-        "category": null,
+        "name": "Россия 1 (+4)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2",
+        "category": "News",
         "languages": [
             {
                 "code": "rus",
@@ -92123,11 +92462,11 @@
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
-    {
-        "name": "Россия 1 (+6)",
-        "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_1.jpg",
-        "url": "http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8",
-        "category": "General",
+       {
+        "name": "Россия 1 (+5)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2",
+        "category": "News",
         "languages": [
             {
                 "code": "rus",
@@ -92141,11 +92480,81 @@
             }
         ],
         "tvg": {
-            "id": "rossia1-pl6",
-            "name": "Россия 1 +6",
+            "id": null,
+            "name": null,
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
+   {
+        "name": "Россия 1 (+6)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+     {
+        "name": "Россия 1 (+8)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+     {
+        "name": "Россия 1 (-1)",
+        "logo": "http://epg.it999.ru/img/711.png",
+        "url": "http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2",
+        "category": "News",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+
     {
         "name": "Россия 1 (Калуга)",
         "logo": null,
@@ -92311,6 +92720,29 @@
         "name": "Россия 24 HD",
         "logo": null,
         "url": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8",
+        "category": null,
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "Кинокомедия HD",
+        "logo": null,
+        "url": "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8",
         "category": null,
         "languages": [
             {
@@ -93527,10 +93959,33 @@
         }
     },
     {
-        "name": "СТС",
-        "logo": "https://i.imgur.com/9RhbrLM.jpg",
-        "url": "https://sc.id-tv.kz/STS_34_35.m3u8",
-        "category": null,
+        "name": "СТС (+2)",
+        "logo": "https://iptvx.one/icn/sts.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "СТС (+4)",
+        "logo": "https://iptvx.one/icn/sts.png",
+        "url": "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2",
+        "category": "Entertainment",
         "languages": [
             {
                 "code": "rus",
@@ -93780,10 +94235,10 @@
         }
     },
     {
-        "name": "ТВ 3",
-        "logo": null,
+        "name": "ТВ 3 (Резерв)",
+        "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",
         "url": "http://51.195.44.53:8081/tv/tv3/playlist.m3u8",
-        "category": null,
+        "category": "Entertainment",
         "languages": [
             {
                 "code": "rus",
@@ -93802,11 +94257,57 @@
             "url": "https://iptvx.one/epg/epg.xml.gz"
         }
     },
-    {
-        "name": "ТВ 3",
-        "logo": null,
-        "url": "http://51.195.44.53:8081/tv/tv3/playlist.m3u8",
-        "category": null,
+      {
+        "name": "ТВ 3 (+2)",
+        "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+      {
+        "name": "ТВ 3 (+4)",
+        "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+      {
+        "name": "ТВ 3 (+7)",
+        "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
         "languages": [
             {
                 "code": "rus",
@@ -94125,10 +94626,79 @@
         }
     },
     {
-        "name": "ТНТ",
-        "logo": null,
+        "name": "ТНТ (Резерв)",
+        "logo": "https://iptvx.one/icn/tnt.png",
         "url": "http://147.135.210.90:8081/tv/tnt/playlist.m3u8",
-        "category": null,
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "ТНТ (+2)",
+        "logo": "https://iptvx.one/icn/tnt.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "ТНТ (+4)",
+        "logo": "https://iptvx.one/icn/tnt.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
+        "languages": [
+            {
+                "code": "rus",
+                "name": "Russian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "ru",
+                "name": "Russia"
+            }
+        ],
+        "tvg": {
+            "id": null,
+            "name": null,
+            "url": "https://iptvx.one/epg/epg.xml.gz"
+        }
+    },
+    {
+        "name": "ТНТ (+7)",
+        "logo": "https://iptvx.one/icn/tnt.png",
+        "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2",
+        "category": "Entertainment",
         "languages": [
             {
                 "code": "rus",

@@ -4992,7 +4992,7 @@
     "playlist": [
       "http://149.154.68.132:8081/HOLA/stream/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tvmchannel",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5020,7 +5020,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tvmchannel",
     "geo":0,
     "is_top":false,
     "category": "Music",
@@ -5048,7 +5048,7 @@
     "playlist": [
       "http://ultotv.ru:8888/live/uhd/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ulto",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5076,7 +5076,7 @@
     "playlist": [
       "http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"univer-tv	",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5104,7 +5104,7 @@
     "playlist": [
       "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"univer-tv	",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5132,7 +5132,7 @@
     "playlist": [
       "https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"univer-tv	",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5160,7 +5160,7 @@
     "playlist": [
       "https://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"univer-tv	",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5188,7 +5188,7 @@
     "playlist": [
       "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"univer-tv	",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5216,7 +5216,7 @@
     "playlist": [
       "https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"viasat-history",
     "geo":0,
     "is_top":false,
     "category": "History",
@@ -5244,7 +5244,7 @@
     "playlist": [
       "https://95-213-224-188.livesports24.online/ooomatch.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"match-tv",
     "geo":0,
     "is_top":false,
     "category": "Sport",
@@ -5272,7 +5272,7 @@
     "playlist": [
       "https://46-21-250-207.livesports24.online/matchboetsru.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"match-boets",
     "geo":0,
     "is_top":false,
     "category": "Sport",
@@ -5300,7 +5300,7 @@
     "playlist": [
       "https://95-213-224-175.livesports24.online/migra.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"match-igra",
     "geo":0,
     "is_top":false,
     "category": "Sport",
@@ -5356,7 +5356,7 @@
     "playlist": [
       "http://195.189.105.158:9050/132/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"vip-comedy",
     "geo":0,
     "is_top":false,
     "category": "Comedy",
@@ -5384,7 +5384,7 @@
     "playlist": [
       "http://195.189.105.158:9050/133/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"vip-megahit",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -5412,7 +5412,7 @@
     "playlist": [
       "http://195.189.105.158:9050/134/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"vip-premiere",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -5468,7 +5468,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s31/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"zagorodny",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5496,7 +5496,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s90/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tonus-tv",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5552,7 +5552,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s92/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"zootv",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5580,7 +5580,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s85/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"zvezda",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5608,7 +5608,7 @@
     "playlist": [
       "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"aris24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5636,7 +5636,7 @@
     "playlist": [
       "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"arxyz24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5664,7 +5664,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/arhyz24/arhyz240.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"arxyz24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5692,7 +5692,7 @@
     "playlist": [
       "http://streaming.astrakhan.ru/astrakhan24/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"astraxan24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5720,7 +5720,7 @@
     "playlist": [
       "https://streaming.astrakhan.ru/astrakhan24/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"astraxan24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5748,7 +5748,7 @@
     "playlist": [
       "https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"astraxan24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5776,7 +5776,7 @@
     "playlist": [
       "https://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"astraxan24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5804,7 +5804,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/astrahan24/astrahan240.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"astraxan24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6000,7 +6000,7 @@
     "playlist": [
       "http://xstream.afontovo.ru/afontovo_ya.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"afontovo-kr",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6028,7 +6028,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"bashkortostan24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6056,7 +6056,7 @@
     "playlist": [
       "http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"belarus24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6144,7 +6144,7 @@
     "playlist": [
       "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"belgorod24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6172,7 +6172,7 @@
     "playlist": [
       "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tro",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6200,7 +6200,7 @@
     "playlist": [
       "https://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tro",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6232,7 +6232,7 @@
     "playlist": [
       "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"belsat",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6260,7 +6260,7 @@
     "playlist": [
       "http://89.189.191.250/239.211.211.162/stream.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"bolshaya-azia",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6288,7 +6288,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/bigasia/bigasia0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"bolshaya-azia",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6344,7 +6344,7 @@
     "playlist": [
       "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"vetta24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6372,7 +6372,7 @@
     "playlist": [
       "https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"vechernyaya-moskva",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6400,7 +6400,7 @@
     "playlist": [
       "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"vmeste-rf	",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6428,7 +6428,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"volgograd-1",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6456,7 +6456,7 @@
     "playlist": [
       "http://91.215.176.238:8000/8channel"
     ],
-    "scheduleName":"",
+    "scheduleName":"8kanal-ru",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6484,7 +6484,7 @@
     "playlist": [
       "http://95.46.208.8:24433/art"
     ],
-    "scheduleName":"",
+    "scheduleName":"8kanal-ru",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6512,7 +6512,7 @@
     "playlist": [
       "http://iptv.rubintele.com:8552/play/a007"
     ],
-    "scheduleName":"",
+    "scheduleName":"vtvplus",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6568,7 +6568,7 @@
     "playlist": [
       "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"gubernia-samara",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6596,7 +6596,7 @@
     "playlist": [
       "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"gubernia-33",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6624,7 +6624,7 @@
     "playlist": [
       "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"gubernia-samara",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6680,7 +6680,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/diving/diving0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"dajving-tv",
     "geo":0,
     "is_top":false,
     "category": "Hobby",
@@ -6708,7 +6708,7 @@
     "playlist": [
       "http://live.m2.tv/hls2/stream.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"dikaya-rybalka-hd",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6736,7 +6736,7 @@
     "playlist": [
       "http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ttc",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6764,7 +6764,7 @@
     "playlist": [
       "https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ttc",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6792,7 +6792,7 @@
     "playlist": [
       "https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"dozhd",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6820,7 +6820,7 @@
     "playlist": [
       "http://89.189.191.250/239.211.211.65/stream.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"domashnie-zhivotnye",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6848,7 +6848,7 @@
     "playlist": [
       "http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"dorama",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -6876,7 +6876,7 @@
     "playlist": [
       "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"evrasia",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6904,7 +6904,7 @@
     "playlist": [
       "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"evrasia",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6932,7 +6932,7 @@
     "playlist": [
       "http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"euronews",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6960,7 +6960,7 @@
     "playlist": [
       "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"zhar-ptica",
     "geo":0,
     "is_top":false,
     "category": "Music",
@@ -6988,7 +6988,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/firebird/firebird0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"zhar-ptica",
     "geo":0,
     "is_top":false,
     "category": "Music",
@@ -7016,7 +7016,7 @@
     "playlist": [
       "http://iptv.ktkru.ru:8017/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"zvezda",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7072,7 +7072,7 @@
     "playlist": [
       "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"izvestia",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7100,7 +7100,7 @@
     "playlist": [
       "https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"izvestia",
     "geo":0,
     "is_top":false,
     "category": "News",
@@ -7128,7 +7128,7 @@
     "playlist": [
       "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"izvestia",
     "geo":0,
     "is_top":false,
     "category": "News",
@@ -7156,7 +7156,7 @@
     "playlist": [
       "http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"izvestia",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7240,7 +7240,7 @@
     "playlist": [
       "http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kaleydoskop-tv",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7268,7 +7268,7 @@
     "playlist": [
       "https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"karapuz-tv",
     "geo":0,
     "is_top":false,
     "category": "Kids",
@@ -7380,10 +7380,10 @@
     "playlist": [
       "http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinosvidanie",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7408,10 +7408,10 @@
     "playlist": [
       "https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinosvidanie",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7436,10 +7436,10 @@
     "playlist": [
       "http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinosvidanie",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7464,10 +7464,10 @@
     "playlist": [
       "http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinosemiya",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7492,10 +7492,10 @@
     "playlist": [
       "https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinoxit",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7520,10 +7520,10 @@
     "playlist": [
       "http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinoxit",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7548,7 +7548,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"klassika-kino",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -7604,10 +7604,10 @@
     "playlist": [
       "http://spacetv.in/stream/DIPK8H19CP8/74.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinopokaz-hd2",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",
@@ -7660,7 +7660,7 @@
     "playlist": [
       "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"krasnaya-linia",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7688,7 +7688,7 @@
     "playlist": [
       "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"krasnaya-linia",
     "geo":0,
     "is_top":false,
     "category": "General",
@@ -7716,7 +7716,7 @@
     "playlist": [
       "https://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"krik-tv",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7744,7 +7744,7 @@
     "playlist": [
       "http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"krym24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7772,7 +7772,7 @@
     "playlist": [
       "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ktk-kz",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7800,7 +7800,7 @@
     "playlist": [
       "https://sc.id-tv.kz/KTK_38_39.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ktk-kz",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7828,7 +7828,7 @@
     "playlist": [
       "https://stream.kuban24.tv:1500/hls/stream.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kuban-24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -7856,7 +7856,7 @@
     "playlist": [
       "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ldpr-tv",
     "geo":0,
     "is_top":false,
     "category": "General",
@@ -7884,7 +7884,7 @@
     "playlist": [
       "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ldpr-tv",
     "geo":0,
     "is_top":false,
     "category": "General",
@@ -7912,7 +7912,7 @@
     "playlist": [
       "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"lipeckoe-vremia",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -7968,7 +7968,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"lubimoe-tv",
     "geo":0,
     "is_top":false,
     "category": "Kids",
@@ -7996,7 +7996,7 @@
     "playlist": [
       "http://92.245.103.126:1935/live/live.stream/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tnt4",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8024,7 +8024,7 @@
     "playlist": [
       "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"matur-tv",
     "geo":0,
     "is_top":false,
     "category": "Music",
@@ -8080,7 +8080,7 @@
     "playlist": [
       "http://live.trkmillet.ru/millet/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"millet",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8108,7 +8108,7 @@
     "playlist": [
       "http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ministerstvo-idey",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8136,7 +8136,7 @@
     "playlist": [
       "https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"ministerstvo-idey",
     "geo":0,
     "is_top":false,
     "category": "Entertainment",
@@ -8192,7 +8192,7 @@
     "playlist": [
       "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mir-24",
     "geo":0,
     "is_top":false,
     "category": "News",

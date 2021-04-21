@@ -6,7 +6,7 @@
       "https://nsk18.peers.tv/streaming/1kanal/126/variable.m3u8?catid=29&vcid=291&vcver=0&accnt=1tv_tv&tmsec=1tv_tv-hb30-peerstv&",
       "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"pervy",
     "geo":0,
     "is_top":true,
     "category": "News",
@@ -205,7 +205,7 @@
       "http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8",
       "https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"rossia1",
     "geo":0,
     "is_top":true,
     "category": "News",
@@ -430,7 +430,7 @@
     "playlist": [
       "http://sc.id-tv.kz/RenTV_36_37.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"rentv",
     "geo":0,
     "is_top":true,
     "category": "Entertainment",
@@ -514,7 +514,7 @@
         "playlist": [
             "http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2"
         ],
-        "scheduleName":"",
+        "scheduleName":"sts",
         "geo":0,
         "is_top":false,
         "category": "Entertainment",
@@ -598,7 +598,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s50/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"piatnica",
     "geo":0,
     "is_top":false,
     "category": "Entertainment",
@@ -712,7 +712,7 @@
       "https://uiptv.do.am/1ufc/000000005/playlist.m3u8",
       "https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kultura",
     "geo":0,
     "is_top":true,
     "category": "Education",
@@ -740,7 +740,7 @@
     "playlist": [
       "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"domkino-premium",
     "geo":0,
     "is_top":true,
     "category": "Movies",
@@ -768,7 +768,7 @@
     "playlist": [
       "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"rossia-24",
     "geo":0,
     "is_top":true,
     "category": "News",
@@ -825,7 +825,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s88/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"domashny",
     "geo":0,
     "is_top":true,
     "category": null,
@@ -937,7 +937,7 @@
     "playlist": [
       "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"kinokomedia",
     "geo":0,
     "is_top":true,
     "category": null,

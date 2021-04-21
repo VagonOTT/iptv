@@ -8248,7 +8248,7 @@
     "playlist": [
       "https://sc.id-tv.kz/Mir24_38_39.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mir-24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8304,7 +8304,7 @@
     "playlist": [
       "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mir-belogoria",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8332,7 +8332,7 @@
     "playlist": [
       "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mir-belogoria",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8360,7 +8360,7 @@
     "playlist": [
       "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mordovia-24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8388,7 +8388,7 @@
     "playlist": [
       "https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moskva-24",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8416,7 +8416,7 @@
     "playlist": [
       "https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moskva-24",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -8444,7 +8444,7 @@
     "playlist": [
       "https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moskva-24",
     "geo":0,
     "is_top":false,
     "category": "News",
@@ -8472,7 +8472,7 @@
     "playlist": [
       "https://retc.educom.ru/mosobrtv/tv1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moskovsky-obrazovatelny",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8500,7 +8500,7 @@
     "playlist": [
       "http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moskovsky-obrazovatelny",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8528,7 +8528,7 @@
     "playlist": [
       "http://retj.educom.ru/mosobrtv/tv1/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moskovsky-obrazovatelny",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8556,7 +8556,7 @@
     "playlist": [
       "https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"moya-planeta",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8584,7 +8584,7 @@
     "playlist": [
       "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mtv-volgograd",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -8612,7 +8612,7 @@
     "playlist": [
       "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"muzhskoe-kino",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -8640,7 +8640,7 @@
     "playlist": [
       "http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"domkino",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -8668,7 +8668,7 @@
     "playlist": [
       "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"nadezhda",
     "geo":0,
     "is_top":false,
     "category": "Religious",

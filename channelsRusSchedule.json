@@ -2038,7 +2038,7 @@
       "http://176.99.110.252/stream8/playlist.m3u8",
       "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
-    "scheduleName":"8kanal-ru	",
+    "scheduleName":"8kanal-ru",
     "geo":0,
     "is_top":false,
     "category": "Entertainment",
@@ -4796,7 +4796,7 @@
     "playlist": [
       "http://ott-cdn.ucom.am/s71/index.m3u8"
     ],
-    "scheduleName":"prikluchenia-hd	",
+    "scheduleName":"prikluchenia-hd",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -5076,7 +5076,7 @@
     "playlist": [
       "http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"univer-tv	",
+    "scheduleName":"univer-tv",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5104,7 +5104,7 @@
     "playlist": [
       "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"univer-tv	",
+    "scheduleName":"univer-tv",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5132,7 +5132,7 @@
     "playlist": [
       "https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"univer-tv	",
+    "scheduleName":"univer-tv",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5160,7 +5160,7 @@
     "playlist": [
       "https://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8"
     ],
-    "scheduleName":"univer-tv	",
+    "scheduleName":"univer-tv",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -5188,7 +5188,7 @@
     "playlist": [
       "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
     ],
-    "scheduleName":"univer-tv	",
+    "scheduleName":"univer-tv",
     "geo":0,
     "is_top":false,
     "category": "Local",
@@ -6400,7 +6400,7 @@
     "playlist": [
       "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8"
     ],
-    "scheduleName":"vmeste-rf	",
+    "scheduleName":"vmeste-rf",
     "geo":0,
     "is_top":false,
     "category": null,

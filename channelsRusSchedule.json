@@ -965,7 +965,7 @@
     "playlist": [
       "http://195.189.105.158:9050/121/index.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tv1000-worldkino",
     "geo":0,
     "is_top":true,
     "category": "Movies",
@@ -993,7 +993,7 @@
     "playlist": [
       "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"mir",
     "geo":0,
     "is_top":true,
     "category": "General",
@@ -1021,7 +1021,7 @@
     "playlist": [
       "http://51.195.44.53:8081/tv/tv3/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tv3-ru",
     "geo":0,
     "is_top":true,
     "category": "Entertainment",
@@ -1133,7 +1133,7 @@
     "playlist": [
       "http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"multimania",
     "geo":0,
     "is_top":true,
     "category": null,
@@ -1161,7 +1161,7 @@
     "playlist": [
       "https://sc.id-tv.kz/o_34_35.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"o_",
     "geo":0,
     "is_top":true,
     "category": "Kids",
@@ -1190,7 +1190,7 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2",
       "http://147.135.210.90:8081/tv/tnt/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"tnt",
     "geo":0,
     "is_top":true,
     "category": "Entertainment",

@@ -9510,40 +9510,12 @@
     "name": "Остросюжетное HD",
     "logo": null,
     "playlist": [
-      "http://188.35.9.26:14050/udp/238.0.14.3:69000"
+      "http://persik.by/stream/6696/480248/10752.m3u8"
     ],
     "scheduleName":"ostrosiuzhetnoe-hd",
     "geo":0,
     "is_top":false,
     "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Остросюжетное HD",
-    "logo": null,
-    "playlist": [
-      "http://51.195.44.53:8081/tv/ostros/playlist.m3u8"
-    ],
-    "scheduleName":"ostrosiuzhetnoe-hd",
-    "geo":0,
-    "is_top":false,
-    "category": null,
     "languages": [
       {
         "code": "rus",

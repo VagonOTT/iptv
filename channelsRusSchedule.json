@@ -6848,6 +6848,7 @@
     "name": "Дорама",
     "logo": null,
     "playlist": [
+      "http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8",
       "http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8"
     ],
     "scheduleName":"dorama",

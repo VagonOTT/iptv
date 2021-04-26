@@ -11894,34 +11894,6 @@
     }
   },
   {
-    "name": "УрФО 24",
-    "logo": null,
-    "playlist": [
-      "https://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Local",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "urfo24",
-      "name": "УрФО24",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Фантастика Sci-Fi",
     "logo": null,
     "playlist": [

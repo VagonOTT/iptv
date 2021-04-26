@@ -2681,12 +2681,40 @@
     }
   },
   {
-    "name": "Cinema",
+    "name": "Премиум HD",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/Cinema_34_35.m3u8"
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/19547"
     ],
-    "scheduleName":"cinema-ru",
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+{
+    "name": "РуКино HD",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/19549"
+    ],
+    "scheduleName":"",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -2709,15 +2737,183 @@
     }
   },
   {
-    "name": "CTV",
-    "logo": "https://i.imgur.com/2Ydfgw4.png",
+    "name": "Премьера HD",
+    "logo": null,
     "playlist": [
-      "http://ott-cdn.ucom.am/s20/index.m3u8"
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/19550"
     ],
     "scheduleName":"",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Триллер HD",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/19677"
+    ],
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Парадокс HD",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/47349"
+    ],
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Paradise HD",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/19551"
+    ],
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Сериал HD",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/64127"
+    ],
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Victory HD",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/65234"
+    ],
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "USSR",
+    "logo": null,
+    "playlist": [
+      "http://195.154.242.229:3000/telegram/premiere_group_chat/47342"
+    ],
+    "scheduleName":"",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
     "languages": [
       {
         "code": "rus",

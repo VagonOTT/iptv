@@ -11589,7 +11589,7 @@
     "name": "ТВЦ",
     "logo": null,
     "playlist": [
-      "http://iptv.ktkru.ru:8010/index.m3u8"
+      "http://dmitry-tv.my1.ru/his/zabava/04/CH_TVC-1.m3u8"
     ],
     "scheduleName":"tvcentr",
     "geo":0,

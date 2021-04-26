@@ -11474,34 +11474,6 @@
     }
   },
   {
-    "name": "ТВ Дом",
-    "logo": null,
-    "playlist": [
-      "http://46.149.48.21:1234"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ua",
-        "name": "Ukraine"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "ТВ Экстра HD",
     "logo": null,
     "playlist": [

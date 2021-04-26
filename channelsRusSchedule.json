@@ -12034,34 +12034,6 @@
     }
   },
   {
-    "name": "Центральний ТВ",
-    "logo": null,
-    "playlist": [
-      "http://159.224.182.177:8080/Live/stream_720/playlist.m3u8"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Шансон ТВ",
     "logo": null,
     "playlist": [

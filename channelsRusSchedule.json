@@ -6456,40 +6456,12 @@
     "name": "Восьмой канал",
     "logo": null,
     "playlist": [
-      "http://91.215.176.238:8000/8channel"
+      "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
     "scheduleName":"8kanal-ru",
     "geo":0,
     "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "by",
-        "name": "Belarus"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Восьмой канал",
-    "logo": null,
-    "playlist": [
-      "http://95.46.208.8:24433/art"
-    ],
-    "scheduleName":"8kanal-ru",
-    "geo":0,
-    "is_top":false,
-    "category": null,
+    "category": "Entertainment",
     "languages": [
       {
         "code": "rus",

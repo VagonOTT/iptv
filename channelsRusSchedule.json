@@ -1556,6 +1556,7 @@
     "name": "Кинопремьера HD",
     "logo": null,
     "playlist": [
+      "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8",
       "https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8"
     ],
     "scheduleName":"kinopremiera-hd",

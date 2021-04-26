@@ -3925,15 +3925,15 @@
     }
   },
   {
-    "name": "Ohotnik i Ribolov",
+    "name": "Охотник и рыбалов",
     "logo": "https://i.imgur.com/k1Gt1Rc.png",
     "playlist": [
-      "http://ott-cdn.ucom.am/s62/index.m3u8"
+      "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8"
     ],
     "scheduleName":"oxotnik-i-rybolov",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Entertainment",
     "languages": [
       {
         "code": "rus",

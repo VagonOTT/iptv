@@ -2598,7 +2598,7 @@
     "name": "Bridge TV",
     "logo": "https://i.imgur.com/L71iY9t.png",
     "playlist": [
-      "http://ott-cdn.ucom.am/s34/index.m3u8"
+      "http://langamepp.com/chtst/020BE292A594A6B4CC0EAD1F9A34CCE7303BD4A19CA2DAD6BE67C978FF40BA"
     ],
     "scheduleName":"bridge-tv",
     "geo":0,
@@ -2622,34 +2622,7 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
-  {
-    "name": "Bridge TV",
-    "logo": "https://i.imgur.com/L71iY9t.png",
-    "playlist": [
-      "http://ott-cdn.ucom.am/s78/index.m3u8"
-    ],
-    "scheduleName":"bridge-tv",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
+ 
   {
     "name": "Bălţi TV",
     "logo": null,

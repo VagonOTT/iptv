@@ -11594,7 +11594,7 @@
     "scheduleName":"tvcentr",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Entertainment",
     "languages": [
       {
         "code": "rus",

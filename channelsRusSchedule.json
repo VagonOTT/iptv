@@ -1156,34 +1156,7 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
-  {
-    "name": "О!",
-    "logo": null,
-    "playlist": [
-      "https://sc.id-tv.kz/o_34_35.m3u8"
-    ],
-    "scheduleName":"o_",
-    "geo":0,
-    "is_top":true,
-    "category": "Kids",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
+  
   {
     "name": "ТНТ",
     "logo": "https://iptvx.one/icn/tnt.png",
@@ -1556,8 +1529,7 @@
     "name": "Кинопремьера HD",
     "logo": null,
     "playlist": [
-      "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8",
-      "https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8"
+      "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8"
     ],
     "scheduleName":"kinopremiera-hd",
     "geo":0,
@@ -1813,62 +1785,6 @@
     "logo": null,
     "playlist": [
       "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"
-    ],
-    "scheduleName":"1hd",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "1HD Music Television",
-    "logo": null,
-    "playlist": [
-      "https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"
-    ],
-    "scheduleName":"1hd",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "1HD Music Television",
-    "logo": null,
-    "playlist": [
-      "https://sc.id-tv.kz/1hd_34_35.m3u8"
     ],
     "scheduleName":"1hd",
     "geo":0,

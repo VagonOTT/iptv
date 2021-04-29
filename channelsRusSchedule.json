@@ -5274,7 +5274,10 @@
     "name": "Матч ТВ",
     "logo": "https://i.imgur.com/ud7AVaF.png",
     "playlist": [
-      "https://95-213-224-188.livesports24.online/ooomatch.m3u8"
+      "https://s4.idata.uz/matchHD/index.m3u8",
+      "http://188.168.76.125:81/udp/238.1.1.4:1234",
+      "http://178.163.102.11:4022/udp/234.0.0.204:2000",
+      "http://176.196.129.10:81/udp/239.255.41.103:1234"
     ],
     "scheduleName":"match-tv",
     "geo":0,

@@ -738,7 +738,6 @@
     "name": "Дом Кино Премиум HD",
     "logo": null,
     "playlist": [
-      "http://81.163.39.156:8384/udp/233.166.172.233",
       "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
     "scheduleName":"domkino-premium",
@@ -2682,258 +2681,6 @@
     }
   },
   {
-    "name": "Премиум HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/19547"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-{
-    "name": "РуКино HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/19549"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Премьера HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/19550"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Триллер HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/19677"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Парадокс HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/47349"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Paradise HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/19551"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Сериал HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/64127"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Victory HD",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/65234"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "USSR",
-    "logo": null,
-    "playlist": [
-      "http://195.154.242.229:3000/telegram/premiere_group_chat/47342"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Da Vinci",
     "logo": null,
     "playlist": [
@@ -3414,34 +3161,6 @@
     "tvg": {
       "id": "hd-media",
       "name": "HD Медиа",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "HDL",
-    "logo": null,
-    "playlist": [
-      "http://89.106.234.3:80/hdl_34_35.m3u8"
-    ],
-    "scheduleName":"hd-life",
-    "geo":0,
-    "is_top":false,
-    "category": "Documentary",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
@@ -4402,34 +4121,6 @@
     }
   },
   {
-    "name": "Russian Music Box",
-    "logo": null,
-    "playlist": [
-      "http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8"
-    ],
-    "scheduleName":"russian-musicbox",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Russian Musicbox",
     "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg",
     "playlist": [
@@ -5075,34 +4766,6 @@
     }
   },
   {
-    "name": "Ulto TV",
-    "logo": "https://i.imgur.com/r3ARFu5.jpg",
-    "playlist": [
-      "http://ultotv.ru:8888/live/uhd/playlist.m3u8"
-    ],
-    "scheduleName":"ulto",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Univer TV",
     "logo": null,
     "playlist": [
@@ -5698,34 +5361,6 @@
     }
   },
   {
-    "name": "Zigfreed",
-    "logo": null,
-    "playlist": [
-      "http://zigfreed.ru:8080/Z!/index.m3u8"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Zoo TV",
     "logo": "https://i.imgur.com/yy0YpWT.png",
     "playlist": [
@@ -6290,34 +5925,6 @@
     }
   },
   {
-    "name": "Беларусь 4",
-    "logo": null,
-    "playlist": [
-      "http://95.46.208.8:26258/belarus4"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "by",
-        "name": "Belarus"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Белгород 24",
     "logo": null,
     "playlist": [
@@ -6412,34 +6019,6 @@
       "http://f1.stream.devkom.pro:1063/ramowka/video.m3u8"
     ],
     "scheduleName":"belsat",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Большая Азия",
-    "logo": null,
-    "playlist": [
-      "http://89.189.191.250/239.211.211.162/stream.m3u8"
-    ],
-    "scheduleName":"bolshaya-azia",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -6649,34 +6228,6 @@
       {
         "code": "by",
         "name": "Belarus"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "ВТВ-Плюс",
-    "logo": null,
-    "playlist": [
-      "http://iptv.rubintele.com:8552/play/a007"
-    ],
-    "scheduleName":"vtvplus",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
       }
     ],
     "tvg": {
@@ -9096,34 +8647,6 @@
     }
   },
   {
-    "name": "Новороссия HD",
-    "logo": null,
-    "playlist": [
-      "http://185.114.136.25:80/novorossia-tv"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Новый мир",
     "logo": null,
     "playlist": [
@@ -9270,34 +8793,6 @@
       "http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8"
     ],
     "scheduleName":"ntv",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "НТВ Хит",
-    "logo": null,
-    "playlist": [
-      "http://89.189.191.250/239.211.211.181/stream.m3u8"
-    ],
-    "scheduleName":"ntv-xit",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -10132,62 +9627,6 @@
     }
   },
   {
-    "name": "Премиальное FHD",
-    "logo": null,
-    "playlist": [
-      "http://188.35.9.26:5050/001"
-    ],
-    "scheduleName":"kinopremium-hd",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Премиальное HD",
-    "logo": null,
-    "playlist": [
-      "http://188.35.9.11:2017"
-    ],
-    "scheduleName":"kinopremium-hd",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "ПРЕМЬЕРА",
     "logo": null,
     "playlist": [
@@ -10240,34 +9679,6 @@
     "tvg": {
       "id": "prodvizhenie",
       "name": "Продвижение",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Психология",
-    "logo": null,
-    "playlist": [
-      "http://89.189.191.250/239.211.211.64/stream.m3u8"
-    ],
-    "scheduleName":"psixologia-21",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
@@ -10391,7 +9802,6 @@
       "http://92.50.128.180/utv/1358/index.m3u8",
       "http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8",
       "http://online.video.rbc.ru/online/rbctv_480p/index.m3u8",
-      "http://online.video.rbc.ru/online/rbctv_576p/index.m3u8",
       "https://strm.yandex.ru/kal/rbc_supres/rbc_supres0.m3u8"
     ],
     "scheduleName":"rbk",
@@ -11029,34 +10439,6 @@
     "tvg": {
       "id": "smaylik-tv",
       "name": "Смайлик ТВ",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Солнечногорское TV",
-    "logo": "https://solntv.ru/images/stv-logo-hq.png",
-    "playlist": [
-      "http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Local",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "solnechnogoskoetv",
-      "name": "Солнечногорское TV",
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },

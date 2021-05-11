@@ -820,6 +820,90 @@
     }
   },
   {
+    "name": "Discovery Russia HD",
+    "logo": "https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png",
+    "playlist": [
+      "http://myott.top/stream/A4UQA8RA8U/177.m3u8"
+    ],
+    "scheduleName":"discovery-ru",
+    "geo":0,
+    "is_top":true,
+    "category": "Education",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Discovery Science HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png",
+    "playlist": [
+      "http://myott.top/stream/A4UQA8RA8U/146.m3u8"
+    ],
+    "scheduleName":"discovery-science",
+    "geo":0,
+    "is_top":true,
+    "category": "Education",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "Discovery Investigation HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",
+    "playlist": [
+      "http://myott.top/stream/A4UQA8RA8U/205.m3u8"
+    ],
+    "scheduleName":"id-xtra-ru",
+    "geo":0,
+    "is_top":true,
+    "category": "Education",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
     "name": "Домашний",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
     "playlist": [

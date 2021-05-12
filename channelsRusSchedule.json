@@ -2773,6 +2773,34 @@
     }
   },
   {
+    "name": "Мультимания",
+    "logo": "https://iptvxpix.ml/multimania.png",
+    "playlist": [
+      "https://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?"
+    ],
+    "scheduleName":"multimania",
+    "geo":0,
+    "is_top":false,
+    "category": "Kids",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+  },
+  {
     "name": "Da Vinci",
     "logo": null,
     "playlist": [

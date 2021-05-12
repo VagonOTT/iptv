@@ -2270,7 +2270,7 @@
     "name": "TV XX1 ВЕК",
     "logo": null,
     "playlist": [
-      "http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8"
+      "https://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
     ],
     "scheduleName":"tvxxi",
     "geo":0,
@@ -2748,7 +2748,7 @@
     "name": "Cartoon Network",
     "logo": null,
     "playlist": [
-      "http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8"
+      "https://nsk18.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?"
     ],
     "scheduleName":"cartoon-network",
     "geo":0,
@@ -2764,66 +2764,6 @@
       {
         "code": "ru",
         "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-  },
-  {
-    "name": "Da Vinci",
-    "logo": null,
-    "playlist": [
-      "http://sc.id-tv.kz:80/DaVinci_38_39.m3u8"
-    ],
-    "scheduleName":"da-vinci",
-    "geo":0,
-    "is_top":false,
-    "category": "Kids",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "am",
-        "name": "Armenia"
-      },
-      {
-        "code": "az",
-        "name": "Azerbaijan"
-      },
-      {
-        "code": "by",
-        "name": "Belarus"
-      },
-      {
-        "code": "kg",
-        "name": "Kyrgyzstan"
-      },
-      {
-        "code": "kz",
-        "name": "Kazakhstan"
-      },
-      {
-        "code": "md",
-        "name": "Moldova"
-      },
-      {
-        "code": "ru",
-        "name": "Russia"
-      },
-      {
-        "code": "tj",
-        "name": "Tajikistan"
-      },
-      {
-        "code": "uz",
-        "name": "Uzbekistan"
       }
     ],
     "tvg": {
@@ -5543,6 +5483,34 @@
     }
   },
   {
+    "name": "Старт",
+    "logo": "https://iptvxpix.ml/start.png",
+    "playlist": [
+      "https://hls.peers.tv/streaming/start/126/vh1w/playlist.m3u8?"
+    ],
+    "scheduleName":"start",
+    "geo":0,
+    "is_top":false,
+    "category": "Sport",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
     "name": "Астрахань.Ru TV",
     "logo": null,
     "playlist": [
@@ -6930,9 +6898,37 @@
     "name": "Классика Кино",
     "logo": null,
     "playlist": [
-      "https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8"
+      "https://nsk18.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8?"
     ],
     "scheduleName":"klassika-kino",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": "klassika-kino",
+      "name": "Классика Кино",
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
+    "name": "НТВ-Сериал",
+    "logo": "https://iptvxpix.ml/ntv-serial.png",
+    "playlist": [
+      "https://hls.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?t"
+    ],
+    "scheduleName":"ntv-serial",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -7994,9 +7990,38 @@
     "name": "Дом кино",
     "logo": null,
     "playlist": [
+      "https://nsk18.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?",
       "http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8"
     ],
     "scheduleName":"domkino",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+ {
+    "name": "Мир сериала",
+    "logo": "https://iptvxpix.ml/mir-seriala.png",
+    "playlist": [
+      "https://msk3.peers.tv/streaming/mir_seriala/126/tvrec/playlist.m3u8?"
+    ],
+    "scheduleName":"mir-seriala",
     "geo":0,
     "is_top":false,
     "category": "Movies",

@@ -1442,6 +1442,35 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
+   {
+    "name": "RU TV",
+    "logo": null,
+    "playlist": [
+      "http://rutv.gcdn.co/streams/1410_95/playlist.m3u8",
+      "https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8"
+    ],
+    "scheduleName":"ru-tv",
+    "geo":0,
+    "is_top":false,
+    "category": "Music",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
   {
     "name": "Food Network",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
@@ -1752,6 +1781,34 @@
     }
   },
   {
+    "name": "1HD Music Television",
+    "logo": "https://i.ibb.co/kqWCzK5/image.png",
+    "playlist": [
+      "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"
+    ],
+    "scheduleName":"1hd",
+    "geo":0,
+    "is_top":false,
+    "category": "Music",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
     "name": "МузСоюз",
     "logo": null,
     "playlist": [
@@ -1847,34 +1904,6 @@
     "geo":0,
     "is_top":true,
     "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "1HD Music Television",
-    "logo": null,
-    "playlist": [
-      "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"
-    ],
-    "scheduleName":"1hd",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
     "languages": [
       {
         "code": "rus",
@@ -3709,15 +3738,15 @@
     }
   },
   {
-    "name": "Nauka 2.0",
+    "name": "Наука 2.0",
     "logo": "https://i.imgur.com/BLFXTL1.png",
     "playlist": [
       "http://ott-cdn.ucom.am/s98/index.m3u8"
     ],
     "scheduleName":"nauka-20",
     "geo":0,
-    "is_top":false,
-    "category": null,
+    "is_top":true,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -3743,34 +3772,6 @@
       "http://91.192.168.242:9091"
     ],
     "scheduleName":"ocean-tv",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Ohotnik i Ribolov",
-    "logo": "https://i.imgur.com/k1Gt1Rc.png",
-    "playlist": [
-      "http://ott-cdn.ucom.am/s55/index.m3u8"
-    ],
-    "scheduleName":"oxotnik-i-rybolov",
     "geo":0,
     "is_top":false,
     "category": null,
@@ -3821,7 +3822,7 @@
     }
   },
   {
-    "name": "Poveda TV",
+    "name": "Победа TV",
     "logo": "https://i.imgur.com/DOtCK9V.png",
     "playlist": [
       "http://ott-cdn.ucom.am/s47/index.m3u8"
@@ -3829,7 +3830,7 @@
     "scheduleName":"pobeda",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Education",
     "languages": [
       {
         "code": "rus",
@@ -3985,118 +3986,6 @@
     "tvg": {
       "id": "rtd-ru",
       "name": "RT Д Русский",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "RU TV",
-    "logo": null,
-    "playlist": [
-      "http://rutv.gcdn.co/streams/1410_95/playlist.m3u8"
-    ],
-    "scheduleName":"ru-tv",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "RU TV HD",
-    "logo": null,
-    "playlist": [
-      "https://rutv.gcdn.co/streams/1410_95/playlist.m3u8"
-    ],
-    "scheduleName":"ru-tv",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "RU.TV",
-    "logo": "https://i.imgur.com/0ujfLYr.png",
-    "playlist": [
-      "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8"
-    ],
-    "scheduleName":"ru-tv",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "ru-tv",
-      "name": "RU.TV",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "RU.TV",
-    "logo": "https://i.imgur.com/0ujfLYr.png",
-    "playlist": [
-      "https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8"
-    ],
-    "scheduleName":"ru-tv",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "ru-tv",
-      "name": "RU.TV",
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },

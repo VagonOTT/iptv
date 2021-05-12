@@ -2268,9 +2268,9 @@
   },
   {
     "name": "TV XX1 ВЕК",
-    "logo": null,
+    "logo": "https://iptvxpix.ml/tvxxi.png",
     "playlist": [
-      "https://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
+      "https://nsk18.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
     ],
     "scheduleName":"tvxxi",
     "geo":0,

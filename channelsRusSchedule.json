@@ -2184,7 +2184,7 @@
     "name": "Русский Бестселлер",
     "logo": null,
     "playlist": [
-      "http://178.163.98.110:81/udp/234.0.0.250:2000"
+      "http://hlstv.kem.211.ru/239.211.211.137/stream.m3u8"
     ],
     "scheduleName":"russky-bestseller",
     "geo":0,
@@ -2212,7 +2212,7 @@
     "name": "Русский Детектив",
     "logo": null,
     "playlist": [
-      "http://51.195.44.53:8081/tv/rus-detektiv/playlist.m3u8"
+      "http://hlstv.kem.211.ru/239.211.211.95/stream.m3u8"
     ],
     "scheduleName":"russky-detektiv",
     "geo":0,
@@ -2241,6 +2241,7 @@
     "logo": null,
     "playlist": [
       "http://178.163.98.110:81/udp/234.0.0.178:2000",
+      "http://178.163.37.104:4022/udp/234.0.0.178:2000",
       "http://86.57.178.105:10823"
     ],
     "scheduleName":"russky-illuzion",

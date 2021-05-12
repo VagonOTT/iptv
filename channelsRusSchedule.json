@@ -2776,7 +2776,7 @@
     "name": "Мультимания",
     "logo": "https://iptvxpix.ml/multimania.png",
     "playlist": [
-      "https://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?"
+      "https://msk3.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?"
     ],
     "scheduleName":"multimania",
     "geo":0,
@@ -5514,7 +5514,7 @@
     "name": "Старт",
     "logo": "https://iptvxpix.ml/start.png",
     "playlist": [
-      "https://hls.peers.tv/streaming/start/126/vh1w/playlist.m3u8?"
+      "https://msk3.peers.tv/streaming/start/126/vh1w/playlist.m3u8?"
     ],
     "scheduleName":"start",
     "geo":0,

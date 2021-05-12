@@ -3743,8 +3743,7 @@
     "name": "Охотник и рыбалов",
     "logo": "https://i.imgur.com/k1Gt1Rc.png",
     "playlist": [
-      "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8",
-      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8"
+      "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8"
     ],
     "scheduleName":"oxotnik-i-rybolov",
     "geo":0,
@@ -6816,8 +6815,8 @@
     "name": "Киносвидание HD",
     "logo": null,
     "playlist": [
-      "http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8",
       "http://94.154.83.88:10000/kinosvidanie",
+      "http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8",
       "https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName":"kinosvidanie",

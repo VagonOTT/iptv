@@ -2668,7 +2668,7 @@
     "scheduleName":"karusel",
     "geo":0,
     "is_top":false,
-    "category": null,
+    "category": "Kids",
     "languages": [
       {
         "code": "rus",
@@ -2691,11 +2691,11 @@
     "name": "Дисней",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1024px-Disney_Channel_logo.svg.png",
     "playlist": [
-      "http://51.68.141.106:8081/tv/disney/playlist.m3u8"
+      "https://msk3.peers.tv/streaming/disney/126/tvrec/playlist.m3u8?"
     ],
     "scheduleName":"disney",
     "geo":0,
-    "is_top":false,
+    "is_top":true,
     "category": "Kids",
     "languages": [
       {

@@ -1472,6 +1472,64 @@
     }
   },
   {
+    "name": "Bridge TV",
+    "logo": "https://i.imgur.com/L71iY9t.png",
+    "playlist": [
+      "http://31.134.132.245:8080/dange/index.m3u8",
+      "http://178.163.98.110:81/udp/234.0.0.180:2000",
+      "http://89.223.46.188:8080/rusong/tracks-v1a1/mono.m3u8"
+    ],
+    "scheduleName":"bridge-tv",
+    "geo":0,
+    "is_top":false,
+    "category": "Music",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+   {
+    "name": "Russian Musicbox",
+    "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg",
+    "playlist": [
+      "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8"
+    ],
+    "scheduleName":"russian-musicbox",
+    "geo":0,
+    "is_top":false,
+    "category": "Music",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": "russian-musicbox",
+      "name": "Russian MusicBox",
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
     "name": "Food Network",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
     "playlist": [
@@ -2599,37 +2657,6 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
-  {
-    "name": "Bridge TV",
-    "logo": "https://i.imgur.com/L71iY9t.png",
-    "playlist": [
-      "http://31.134.132.245:8080/dange/index.m3u8",
-      "http://178.163.98.110:81/udp/234.0.0.180:2000",
-      "http://89.223.46.188:8080/rusong/tracks-v1a1/mono.m3u8"
-    ],
-    "scheduleName":"bridge-tv",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
- 
   {
     "name": "Bălţi TV",
     "logo": null,
@@ -4070,34 +4097,6 @@
     "tvg": {
       "id": null,
       "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Russian Musicbox",
-    "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg",
-    "playlist": [
-      "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8"
-    ],
-    "scheduleName":"russian-musicbox",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "russian-musicbox",
-      "name": "Russian MusicBox",
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },

@@ -2578,34 +2578,6 @@
     "name": "Bollywood HD",
     "logo": null,
     "playlist": [
-      "http://89.106.234.5:80/bollywood_hd_34_35.m3u8"
-    ],
-    "scheduleName":"bollywood-hd",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Bollywood HD",
-    "logo": null,
-    "playlist": [
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
     "scheduleName":"bollywood-hd",
@@ -2979,34 +2951,7 @@
     "name": "Euronews",
     "logo": "https://i.imgur.com/4oOscgt.jpg",
     "playlist": [
-      "https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8"
-    ],
-    "scheduleName":"euronews",
-    "geo":0,
-    "is_top":false,
-    "category": "News",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "euronews",
-      "name": "EuroNews",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Euronews",
-    "logo": "https://i.imgur.com/4oOscgt.jpg",
-    "playlist": [
+      "https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8",
       "https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8"
     ],
     "scheduleName":"euronews",
@@ -4387,7 +4332,7 @@
     "name": "Star Cinema HD",
     "logo": null,
     "playlist": [
-      "http://213.184.238.59:5081"
+      "http://95.67.12.94:9001"
     ],
     "scheduleName":"star-cinema",
     "geo":0,
@@ -6726,99 +6671,16 @@
     }
   },
   {
-    "name": "Известия",
+    "name": "Известия HD",
     "logo": null,
     "playlist": [
-      "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
-    ],
-    "scheduleName":"izvestia",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Известия",
-    "logo": "https://iptvx.one/icn/izvestia.png",
-    "playlist": [
-      "https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
-    ],
-    "scheduleName":"izvestia",
-    "geo":0,
-    "is_top":false,
-    "category": "News",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "izvestia",
-      "name": "Известия",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Известия",
-    "logo": "https://iptvx.one/icn/izvestia.png",
-    "playlist": [
+      "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8",
       "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
     ],
     "scheduleName":"izvestia",
     "geo":0,
     "is_top":false,
     "category": "News",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "izvestia",
-      "name": "Известия",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Известия ТВ HD",
-    "logo": null,
-    "playlist": [
-      "http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
-    ],
-    "scheduleName":"izvestia",
-    "geo":0,
-    "is_top":false,
-    "category": null,
     "languages": [
       {
         "code": "rus",
@@ -7038,6 +6900,7 @@
     "logo": null,
     "playlist": [
       "http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8",
+      "http://94.154.83.88:10000/kinosvidanie",
       "https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName":"kinosvidanie",
@@ -7094,7 +6957,7 @@
     "name": "Кинохит",
     "logo": null,
     "playlist": [
-      "https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8"
+      "http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8"
     ],
     "scheduleName":"kinoxit",
     "geo":0,

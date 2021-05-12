@@ -1870,7 +1870,8 @@
     "name": "МузСоюз",
     "logo": null,
     "playlist": [
-      "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8"
+      "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8",
+      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8"
     ],
     "scheduleName":"muzsoyuz",
     "geo":0,
@@ -3824,7 +3825,8 @@
     "name": "Охотник и рыбалов",
     "logo": "https://i.imgur.com/k1Gt1Rc.png",
     "playlist": [
-      "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8"
+      "https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8",
+      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8"
     ],
     "scheduleName":"oxotnik-i-rybolov",
     "geo":0,
@@ -9721,34 +9723,6 @@
     }
   },
   {
-    "name": "Радио Шансон",
-    "logo": null,
-    "playlist": [
-      "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8"
-    ],
-    "scheduleName":"radio-shanson",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "radio-shanson",
-      "name": "Радио Шансон",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "РБК",
     "logo": "https://i.imgur.com/D5M4Gjr.png",
     "playlist": [
@@ -11517,124 +11491,14 @@
     }
   },
   {
-    "name": "Шансон ТВ",
-    "logo": null,
-    "playlist": [
-      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8"
-    ],
-    "scheduleName":"shanson-tv-hb",
-    "geo":0,
-    "is_top":false,
-    "category": null,
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Шансон-ТВ",
-    "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg",
-    "playlist": [
-      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8"
-    ],
-    "scheduleName":"shanson-tv-hb",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "shanson-tv",
-      "name": "Шансон-TB",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Шансон-ТВ",
     "logo": "https://www.shanson.tv/image/logo_160120.png",
     "playlist": [
-      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8"
-    ],
-    "scheduleName":"shanson-tv-hb",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "shanson-tv",
-      "name": "Шансон-TB",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Шансон-ТВ",
-    "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg",
-    "playlist": [
-      "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
-    ],
-    "scheduleName":"shanson-tv-hb",
-    "geo":0,
-    "is_top":false,
-    "category": "Music",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": "shanson-tv",
-      "name": "Шансон-TB",
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
-    "name": "Шансон-ТВ",
-    "logo": "https://www.shanson.tv/image/logo_160120.png",
-    "playlist": [
+      "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8",
+      "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
       "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
     ],
-    "scheduleName":"",
+    "scheduleName":"shanson-tv-hb",
     "geo":0,
     "is_top":false,
     "category": "Music",

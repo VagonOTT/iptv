@@ -2663,6 +2663,7 @@
     "name": "Карусель",
     "logo": "https://i.imgur.com/IjAEtrn.png",
     "playlist": [
+      "https://hls.peers.tv/streaming/karusel/16/g2500/playlist.m3u8?",
       "http://ott-cdn.ucom.am/s61/index.m3u8"
     ],
     "scheduleName":"karusel",

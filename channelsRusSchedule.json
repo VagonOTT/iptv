@@ -2156,7 +2156,7 @@
     "name": "Русский Роман",
     "logo": "Movies",
     "playlist": [
-      "http://31.134.132.245:8080/rus-roman/index.m3u8"
+      "http://hlstv.kem.211.ru/239.211.200.29/stream.m3u8"
     ],
     "scheduleName":"russky-roman",
     "geo":0,

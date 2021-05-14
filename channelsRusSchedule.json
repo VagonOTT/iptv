@@ -1357,10 +1357,10 @@
     }
   },
   {
-    "name": "National Geographic Russia",
+    "name": "National Geographic HD",
     "logo": null,
     "playlist": [
-      "http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8"
+      "http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8"
     ],
     "scheduleName":"",
     "geo":0,

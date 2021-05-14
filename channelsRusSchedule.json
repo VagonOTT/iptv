@@ -909,7 +909,7 @@
     "name": "Домашний",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
     "playlist": [
-      "http://51.195.44.53:8081/tv/domashniy/playlist.m3u8"
+      "http://82.200.80.142:8080/dom/index.m3u8"
     ],
     "scheduleName":"domashny",
     "geo":0,

@@ -1,0 +1,33 @@
+{
+   "success":true,
+   "response":[
+         {
+            "package_name":"ru.cn.tv",
+            "status":"work",
+            "dateTime" : "09.11.2020 12:00:00",
+            "info":"Телеканал работает",
+            "imageUrl":"http://img.bolshoe.tv/uploads/promotion/custom/ott_test/ott_test"
+         },
+         {
+            "package_name":"tv.limehd.stb",
+            "status":"work",
+            "dateTime" : "09.11.2020 12:00:00",
+            "info":"Проблема с приложением Lime TV, скоро все починят",
+            "imageUrl":"http://img.bolshoe.tv/uploads/promotion/custom/ott_youtube_problem/ott_youtube_problem"
+         },
+         {
+            "package_name":"com.liskovsoft.videomanager",
+            "status":"work",
+            "dateTime" : "02.12.2020 11:58:00",
+            "info":"Проблема с приложением Smart YouTube, скоро все починят",
+            "imageUrl":"http://img.bolshoe.tv/uploads/promotion/custom/ott_update_youtube/ott_update_youtube"
+         },
+         {
+            "package_name":"com.cloudmosa.puffinTV",
+            "status":"work",
+            "dateTime" : "09.11.2020 12:00:00",
+            "info":"Проблема с приложением Smart YouTube, скоро все починят",
+            "imageUrl":"http://img.bolshoe.tv/uploads/promotion/custom/ott_youtube_problem/ott_youtube_problem"
+         }
+      ]
+}

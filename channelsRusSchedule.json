@@ -1050,7 +1050,7 @@
     "name": "TV1000 World Kino",
     "logo": null,
     "playlist": [
-      "http://195.189.105.158:9050/121/index.m3u8"
+      "http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8"
     ],
     "scheduleName":"tv1000-worldkino",
     "geo":0,
@@ -2495,8 +2495,8 @@
     "name": "Amedia Hit",
     "logo": null,
     "playlist": [
-      "http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8",
-      "http://212.79.122.24:7125/amedia_hit"
+      "http://178.33.37.66/stream/2FHIIS8S49/162.m3u8",
+      "http://178.163.98.110:81/udp/234.0.0.169:2000"
     ],
     "scheduleName":"amedia-hit",
     "geo":0,
@@ -4133,7 +4133,6 @@
     "name": "Shot TV",
     "logo": null,
     "playlist": [
-      "https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8",
       "http://37.17.14.149:8905/play/a00m"
     ],
     "scheduleName":"shot-tv",
@@ -5065,7 +5064,7 @@
     "name": "VIP Megahit",
     "logo": null,
     "playlist": [
-      "http://195.189.105.158:9050/133/index.m3u8"
+      "http://91.210.24.70:88/tv_vip_megahit_hd/video.m3u8"
     ],
     "scheduleName":"vip-megahit",
     "geo":0,
@@ -6843,6 +6842,7 @@
     "name": "Киносемья HD",
     "logo": null,
     "playlist": [
+      "http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija.m3u8",
       "http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
     ],
     "scheduleName":"kinosemiya",
@@ -7011,7 +7011,7 @@
     "name": "Комедийное HD",
     "logo": null,
     "playlist": [
-      "http://85.236.191.231:9981/stream/channelid/1390612225"
+      "http://185.162.8.175:6878/ace/manifest.m3u8?id=da116afe3adb4831f53e87d118b1f8c650b719d8"
     ],
     "scheduleName":"kinopokaz-hd2",
     "geo":0,
@@ -8916,7 +8916,7 @@
     "name": "Остросюжетное HD",
     "logo": null,
     "playlist": [
-      "http://persik.by/stream/6696/480248/10752.m3u8"
+      "http://178.33.37.66/stream/3J954AR724/214.m3u8"
     ],
     "scheduleName":"ostrosiuzhetnoe-hd",
     "geo":0,
@@ -10429,12 +10429,12 @@
     }
   },
   {
-    "name": "Страшное HD",
+    "name": "Ужастик ТВ",
     "logo": null,
     "playlist": [
-      "http://spacetv.in/stream/DIPK8H19CP8/226.m3u8"
+      "https://v2.catcast.tv/content/38896/index.m3u8"
     ],
-    "scheduleName":"strashnoe-hd",
+    "scheduleName":"",
     "geo":0,
     "is_top":false,
     "category": "Movies",
@@ -11218,7 +11218,7 @@
     "name": "Шокирующее HD",
     "logo": "https://epg.iptvx.one/icn/shokiruyushchee.png",
     "playlist": [
-      "http://spacetv.in/stream/DIPK8H19CP8/75.m3u8"
+      "http://178.33.37.66/stream/5K98G1IL73/75.m3u8"
     ],
     "scheduleName":"kinopokaz-hd1",
     "geo":0,

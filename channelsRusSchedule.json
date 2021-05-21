@@ -1022,6 +1022,7 @@
     "name": "Кинокомедия HD",
     "logo": null,
     "playlist": [
+      "http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8",
       "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8",
       "http://31.134.132.245:8080/kinokomediya_hd/index.m3u8"
     ],
@@ -1107,7 +1108,7 @@
     "name": "ТВ 3",
     "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a000001600802bf169b4755471b3a4da311/orig",
     "playlist": [
-      "http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8",
+      "http://persik.by/stream/6696/480248/63.m3u8",
       "http://178.163.104.52:81/udp/234.0.0.171:2000"
     ],
     "scheduleName":"tv3-ru",

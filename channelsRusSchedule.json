@@ -1478,6 +1478,7 @@
     "name": "Bridge TV",
     "logo": "https://i.imgur.com/L71iY9t.png",
     "playlist": [
+      "http://persik.by/stream/6696/480248/409.m3u8",
       "http://31.134.132.245:8080/dange/index.m3u8",
       "http://178.163.98.110:81/udp/234.0.0.180:2000",
       "http://89.223.46.188:8080/rusong/tracks-v1a1/mono.m3u8"

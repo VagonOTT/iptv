@@ -2245,8 +2245,7 @@
     "name": "Русский Иллюзион",
     "logo": null,
     "playlist": [
-      "http://178.163.98.110:81/udp/234.0.0.178:2000",
-      "http://178.163.37.104:4022/udp/234.0.0.178:2000",
+      "http://persik.by/stream/6696/480248/177.m3u8",
       "http://86.57.178.105:10823"
     ],
     "scheduleName":"russky-illuzion",

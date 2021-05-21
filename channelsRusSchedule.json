@@ -3,6 +3,7 @@
     "name": "Первый канал HD",
     "logo": "https://i.imgur.com/iW5vhkb.png",
     "playlist": [
+      "http://persik.by/stream/6696/480248/8.m3u8",
       "https://nsk18.peers.tv/streaming/1kanal/126/variable.m3u8?catid=29&vcid=291&vcver=0&accnt=1tv_tv&tmsec=1tv_tv-hb30-peerstv&",
       "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8"
     ],

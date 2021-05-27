@@ -2,6 +2,6 @@
    "success":true,
    "response": {
             "type":"ATTENTION",
-            "message":""
+            "message":"Исправлена ошибка голосового поиска в приложении YouTube"
         }
 }

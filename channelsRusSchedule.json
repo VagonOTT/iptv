@@ -740,6 +740,7 @@
     "name": "Дом Кино Премиум HD",
     "logo": null,
     "playlist": [
+      "http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8",
       "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
     "scheduleName":"domkino-premium",

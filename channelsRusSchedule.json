@@ -2757,7 +2757,8 @@
     "name": "Cartoon Network",
     "logo": null,
     "playlist": [
-      "https://nsk18.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?"
+      "https://nsk18.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?",
+      "http://persik.by/stream/6696/480248/805.m3u8"
     ],
     "scheduleName":"cartoon-network",
     "geo":0,

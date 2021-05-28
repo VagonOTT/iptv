@@ -2700,6 +2700,7 @@
     "name": "Дисней",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1024px-Disney_Channel_logo.svg.png",
     "playlist": [
+      "http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2",
       "https://msk3.peers.tv/streaming/disney/126/tvrec/playlist.m3u8?"
     ],
     "scheduleName":"disney",

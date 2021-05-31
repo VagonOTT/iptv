@@ -1,10 +1,5 @@
 [
   {
-    "name": "Россия 1 HD",
-    "logo": "https://i.imgur.com/9Z0ivs4.png",
-    "playlist": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8"
-  },
-  {
     "name": "1HD Music Television",
     "logo": "https://i.ibb.co/kqWCzK5/image.png",
     "playlist": "http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8"
@@ -12,6 +7,21 @@
   {
     "name": "Дорама",
     "logo": "https://i.imgur.com/lHn6OlM.png",
-    "playlist": "http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8"
+    "playlist": "http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8"
+  },
+  {
+    "name": "Discovery Russia HD",
+    "logo": "https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png",
+    "playlist": "http://myott.top/stream/A4UQA8RA8U/177.m3u8"
+  },
+  {
+    "name": "Discovery Russia HD",
+    "logo": "https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png",
+    "playlist": "http://myott.top/stream/A4UQA8RA8U/177.m3u8"
+  },
+  {
+    "name": "Discovery Science HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png",
+    "playlist": "http://myott.top/stream/A4UQA8RA8U/146.m3u8"
   }
 ]

@@ -28,5 +28,20 @@
     "name": "Кинопремьера",
     "logo": "https://ntvplus.tv/files/image/02/30/82/liy.png",
     "playlist": "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8"
+  },
+  {
+    "name": "Премиальное",
+    "logo": "https://thumb.tildacdn.com/tild3331-3133-4139-b464-613336373964/-/resize/70x/-/format/webp/image_73.png",
+    "playlist": ""
+  },
+  {
+    "name": "Остросюжетное",
+    "logo": "https://thumb.tildacdn.com/tild3739-3165-4163-a562-373134346566/-/resize/80x/-/format/webp/image_74.png",
+    "playlist": ""
+  },
+  {
+    "name": "Хит",
+    "logo": "https://thumb.tildacdn.com/tild3432-3431-4665-a633-386262353632/-/resize/80x/-/format/webp/image_75.png",
+    "playlist": ""
   }
 ]

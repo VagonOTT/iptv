@@ -25,8 +25,8 @@
     "playlist": "http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8"
   },
   {
-    "name": "Amidea Hit HD",
-    "logo": "https://i.ibb.co/kBvXkZZ/epg585.png",
-    "playlist": "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
+    "name": "Кинопремьера",
+    "logo": "https://ntvplus.tv/files/image/02/30/82/liy.png",
+    "playlist": "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8"
   }
 ]

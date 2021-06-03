@@ -1705,6 +1705,7 @@
     "name": "Кинопремьера HD",
     "logo": null,
     "playlist": [
+      "http://hlstv.brn.211.ru/239.211.200.28/stream.m3u8",
       "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8"
     ],
     "scheduleName":"kinopremiera-hd",
@@ -4368,7 +4369,7 @@
     "name": "Футбол 1 HD",
     "logo": null,
     "playlist": [
-      "https://sportuslive.ru/ua1/index.m3u8"
+      "http://hlstv.brn.211.ru/239.211.200.171/stream.m3u8"
     ],
     "scheduleName":"",
     "geo":0,
@@ -4396,7 +4397,7 @@
     "name": "Футбол 2 HD",
     "logo": null,
     "playlist": [
-      "https://46-21-250-207.livesports24.online/fooootball2.m3u8"
+      "https://46-21-250-207.livesports24.online/fooootball2.m3u8",
     ],
     "scheduleName":"",
     "geo":0,
@@ -5807,12 +5808,41 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
+   {
+    "name": "Киносерия HD",
+    "logo": null,
+    "playlist": [
+      "http://hlstv.brn.211.ru/239.211.200.44/stream.m3u8",
+      "http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija.m3u8"
+    ],
+    "scheduleName":"kinoseria",
+    "geo":0,
+    "is_top":false,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
   {
     "name": "Киносемья HD",
     "logo": null,
     "playlist": [
-      "http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija.m3u8",
-      "http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
+      "http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8",
+      "http://hlstv.brn.211.ru/239.211.211.140/stream.m3u8"
     ],
     "scheduleName":"kinosemiya",
     "geo":0,
@@ -6654,10 +6684,11 @@
     }
   },
   {
-    "name": "Мужское кино",
+    "name": "Мужское кино HD",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8"
+      "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8",
+      "http://hlstv.brn.211.ru/239.211.200.31/stream.m3u8"
     ],
     "scheduleName":"muzhskoe-kino",
     "geo":0,

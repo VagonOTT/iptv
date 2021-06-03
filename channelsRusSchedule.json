@@ -4224,6 +4224,34 @@
     }
   },
   {
+    "name": "Матч ТВ! Премьер HD",
+    "logo": "https://rosintel.ru/img/tv_icons/big/19800match_premiere_logo_big_format_200x150.png",
+    "playlist": [
+      "http://hlstv.brn.211.ru/239.211.200.170/stream.m3u8"
+    ],
+    "scheduleName":"match-premier",
+    "geo":0,
+    "is_top":false,
+    "category": "Sport",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
     "name": "Матч ТВ! Боец",
     "logo": "https://www.cableman.ru/sites/default/files/match_boec.png?1530015912",
     "playlist": [

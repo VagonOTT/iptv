@@ -4425,7 +4425,7 @@
     "name": "Футбол 2 HD",
     "logo": null,
     "playlist": [
-      "https://46-21-250-207.livesports24.online/fooootball2.m3u8",
+      "https://46-21-250-207.livesports24.online/fooootball2.m3u8"
     ],
     "scheduleName":"match-football2",
     "geo":0,
@@ -4453,7 +4453,7 @@
     "name": "Футбол 3 HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.200.173/stream.m3u8",
+      "http://hlstv.brn.211.ru/239.211.200.173/stream.m3u8"
     ],
     "scheduleName":"match-football3",
     "geo":0,

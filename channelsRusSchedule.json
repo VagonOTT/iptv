@@ -1052,6 +1052,7 @@
     "name": "TV1000 World Kino",
     "logo": null,
     "playlist": [
+      "http://185.74.7.220:8080/TV1000/mpegts",
       "http://iptvtree.net:8080/geniptv/4faed690fd/266734",
       "http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8"
     ],

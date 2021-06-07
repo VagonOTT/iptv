@@ -8972,34 +8972,6 @@
     }
   },
   {
-    "name": "Шокирующее HD",
-    "logo": "https://epg.iptvx.one/icn/shokiruyushchee.png",
-    "playlist": [
-      "http://178.33.37.66/stream/5K98G1IL73/75.m3u8"
-    ],
-    "scheduleName":"kinopokaz-hd1",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "Щелковское ТВ",
     "logo": "http://tv41.ru/images/00.png",
     "playlist": [

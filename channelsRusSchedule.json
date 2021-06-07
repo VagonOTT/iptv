@@ -1050,11 +1050,9 @@
   },
   {
     "name": "TV1000 World Kino",
-    "logo": null,
+    "logo": "https://iptvxpix.ml/tv1000-worldkino.png",
     "playlist": [
-      "http://185.74.7.220:8080/TV1000/mpegts",
-      "http://iptvtree.net:8080/geniptv/4faed690fd/266734",
-      "http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8"
+      "http://185.74.7.220:8080/TV1000/mpegts"
     ],
     "scheduleName":"tv1000-worldkino",
     "geo":0,
@@ -1080,11 +1078,39 @@
   },
   {
     "name": "TV1000 Action",
-    "logo": null,
+    "logo": "https://iptvxpix.ml/tv1000action.png",
     "playlist": [
       "http://persik.by/stream/6696/480248/10238.m3u8"
     ],
     "scheduleName":"tv1000-action",
+    "geo":0,
+    "is_top":true,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+  },
+  {
+    "name": "TV1000 Русское кино",
+    "logo": "https://iptvxpix.ml/tv1000ruskino.png",
+    "playlist": [
+      "http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8"
+    ],
+    "scheduleName":"tv1000-russkoe-kino",
     "geo":0,
     "is_top":true,
     "category": "Movies",

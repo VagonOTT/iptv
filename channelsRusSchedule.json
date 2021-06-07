@@ -1079,6 +1079,34 @@
     }
   },
   {
+    "name": "TV1000 Action",
+    "logo": null,
+    "playlist": [
+      "http://persik.by/stream/6696/480248/10238.m3u8"
+    ],
+    "scheduleName":"tv1000-action",
+    "geo":0,
+    "is_top":true,
+    "category": "Movies",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+  },
+  {
     "name": "Мир",
     "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg",
     "playlist": [

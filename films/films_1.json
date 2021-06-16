@@ -31,38 +31,5 @@
             "right_date_begin":"2021-06-09"
          }
       ]
-   },
-   {
-      "kp_id":947279,
-      "imdb_id":null,
-      "tmdb_id":null,
-      "wa_id":null,
-      "douban_id":null,
-      "title_ru":"",
-      "title_en":"Future",
-      "year":0,
-      "countries":"США",
-      "directors":"Rob Cousineau,Крис Росик",
-      "genres":"фантастика",
-      "actors":"Joshua P. Cousineau,Phreddy Wischusen,Клер Слома,John Suave,Robert Grant",
-      "description":"",
-      "pictures":"",
-      "premiere":"",
-      "kp_rating":0,
-      "kp_vote":0,
-      "imdb_rating":0,
-      "imdb_vote":0,
-      "poster":1,
-      "still":0,
-      "type":0,
-      "embeds":[
-         {
-            "iframe":"https://pleer.video/947279",
-            "ivi_id":461815,
-            "right_type":"AVOD",
-            "right_date_end":"2023-12-31",
-            "right_date_begin":"2021-05-20"
-         }
-      ]
    }
 ]

@@ -2,6 +2,6 @@
    "success":true,
    "response": {
             "type":"ATTENTION",
-            "message":"Массовый сбой: в приложении YouTube не запускаются ролики. Мы уже ищем решение. Приносим извинения."
+            "message":""
         }
 }

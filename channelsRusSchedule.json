@@ -4283,7 +4283,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://rosintel.ru/img/tv_icons/big/19800match_premiere_logo_big_format_200x150.png",
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.200.170/stream.m3u8"
+      "http://188.113.190.12/103/video.m3u8"
     ],
     "scheduleName":"match-premier",
     "geo":0,
@@ -4453,7 +4453,7 @@
     "name": "Футбол 1 HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.200.171/stream.m3u8"
+      "http://188.113.190.12/175/video.m3u8"
     ],
     "scheduleName":"match-football1",
     "geo":0,
@@ -4509,7 +4509,7 @@
     "name": "Футбол 3 HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.200.173/stream.m3u8"
+      "http://188.113.190.12/177/video.m3u8"
     ],
     "scheduleName":"match-football3",
     "geo":0,

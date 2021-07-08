@@ -855,7 +855,7 @@
     "name": "Discovery Science HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png",
     "playlist": [
-      "http://217.21.34.160:5500/science"
+      "http://185.74.4.46:8080/stch_temp10/mpegts"
     ],
     "scheduleName":"discovery-science",
     "geo":0,
@@ -1081,7 +1081,7 @@
     "name": "TV1000 Action",
     "logo": "https://iptvxpix.ml/tv1000action.png",
     "playlist": [
-      "http://persik.by/stream/6696/480248/10238.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8"
     ],
     "scheduleName":"tv1000-action",
     "geo":0,
@@ -1421,7 +1421,8 @@
     "name": "National Geographic HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8"
+      "http://92.50.221.130:8000/play/a07d/index.m3u8",
+      "https://s3.idata.uz/dars1/tracks-v1a1/rewind-7200.m3u8"
     ],
     "scheduleName":"",
     "geo":0,
@@ -1875,6 +1876,7 @@
     "name": "Авто Плюс",
     "logo": null,
     "playlist": [
+      "http://185.74.7.220:8080/avtoplyus/mpegts",
       "http://persik.by/stream/6696/480248/311.m3u8"
     ],
     "scheduleName":"avto-plus",
@@ -4252,7 +4254,7 @@
     "name": "Viasat History",
     "logo": null,
     "playlist": [
-      "https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8"
     ],
     "scheduleName":"viasat-history",
     "geo":0,
@@ -4311,7 +4313,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://rosintel.ru/img/tv_icons/big/19800match_premiere_logo_big_format_200x150.png",
     "playlist": [
-      "http://188.113.190.12/103/video.m3u8"
+      "https://185-106-121-101.livesports24.online/mpremierrus.m3u8"
     ],
     "scheduleName":"match-premier",
     "geo":0,

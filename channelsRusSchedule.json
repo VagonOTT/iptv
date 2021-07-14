@@ -1023,8 +1023,7 @@
     "name": "Кинокомедия HD",
     "logo": null,
     "playlist": [
-      "http://persik.by/stream/6696/480248/10333.m3u8",
-      "http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8",
+      "http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8",
       "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8"
     ],
     "scheduleName":"kinokomedia",
@@ -1790,7 +1789,6 @@
     "name": "Кинопремьера HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.200.28/stream.m3u8",
       "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8"
     ],
     "scheduleName":"kinopremiera-hd",
@@ -1990,7 +1988,7 @@
     "name": "Киномикс HD",
     "logo": null,
     "playlist": [
-      "http://persik.by/stream/6696/480248/608.m3u8",
+      "http://91.243.97.200:8111/kinomix/index.m3u8",
       "http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
     ],
     "scheduleName":"kinomiks",
@@ -2191,7 +2189,6 @@
     "logo": "http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png",
     "playlist": [
       "https://nsk18.peers.tv/streaming/8_kanal/16/gvh1w/playlist.m3u8?",
-      "http://176.99.110.252/stream8/playlist.m3u8",
       "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
     "scheduleName":"8kanal-ru",
@@ -2360,7 +2357,7 @@
     "name": "TV XX1 ВЕК",
     "logo": "https://iptvxpix.ml/tvxxi.png",
     "playlist": [
-      "http://hlstv.kem.211.ru/239.211.211.79/stream.m3u8",
+      "http://188.40.68.167/russia/xxi/playlist.m3u8",
       "https://nsk18.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
     ],
     "scheduleName":"tvxxi",
@@ -2474,9 +2471,8 @@
     "name": "Amedia Hit",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8",
-      "http://178.33.37.66/stream/2FHIIS8S49/162.m3u8",
-      "http://178.163.98.110:81/udp/234.0.0.169:2000"
+      "http://212.76.27.27:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8",
+      "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
     ],
     "scheduleName":"amedia-hit",
     "geo":0,
@@ -2560,6 +2556,7 @@
     "name": "Bollywood HD",
     "logo": null,
     "playlist": [
+      "http://212.76.27.29:80/btv/SWM/Bollywood_HD/Bollywood_HD_720p_3500kbps.m3u8",
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
     "scheduleName":"bollywood-hd",
@@ -3071,34 +3068,6 @@
     }
   },
   {
-    "name": "Gravity Fouls",
-    "logo": null,
-    "playlist": [
-      "https://autopilot.catcast.tv/content/38105/index.m3u8"
-    ],
-    "scheduleName":"",
-    "geo":0,
-    "is_top":false,
-    "category": "Kids",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": "https://iptvx.one/epg/epg.xml.gz"
-    }
-  },
-  {
     "name": "HD Медиа",
     "logo": "https://iptvx.one/icn/hd-media.png",
     "playlist": [
@@ -3130,6 +3099,7 @@
     "name": "HDL",
     "logo": null,
     "playlist": [
+      "http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8",
       "https://sc.id-tv.kz/hdl_34_35.m3u8",
       "https://sc.id-tv.kz/hdl_38_39.m3u8"
     ],
@@ -4483,7 +4453,7 @@
     "name": "Футбол 1 HD",
     "logo": null,
     "playlist": [
-      "http://188.113.190.12/175/video.m3u8"
+        "https://okkotv-live.cdnvideo.ru/channel/Match_Football_1_HD.m3u8"
     ],
     "scheduleName":"match-football1",
     "geo":0,
@@ -4539,7 +4509,7 @@
     "name": "Футбол 3 HD",
     "logo": null,
     "playlist": [
-      "http://188.113.190.12/177/video.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/Match_Football_3_HD.m3u8"
     ],
     "scheduleName":"match-football3",
     "geo":0,
@@ -5102,7 +5072,7 @@
     "name": "Башкортостан 24",
     "logo": null,
     "playlist": [
-      "https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240.m3u8"
+      "https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8?version=2"
     ],
     "scheduleName":"bashkortostan24",
     "geo":0,
@@ -6830,8 +6800,8 @@
     "name": "Мужское кино HD",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8",
-      "http://hlstv.brn.211.ru/239.211.200.31/stream.m3u8"
+      "http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8",
+      "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8"
     ],
     "scheduleName":"muzhskoe-kino",
     "geo":0,
@@ -7647,7 +7617,7 @@
     "name": "Охота и Рыбалка",
     "logo": null,
     "playlist": [
-      "https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8"
+      "http://185.74.5.142:8080/dars5/mpegts"
     ],
     "scheduleName":"oxota-i-rybalka",
     "geo":0,
@@ -7732,6 +7702,7 @@
     "name": "Победа",
     "logo": null,
     "playlist": [
+      "http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8",
       "https://sc.id-tv.kz/Pobeda_34_35.m3u8"
     ],
     "scheduleName":"",
@@ -9145,6 +9116,7 @@
     "name": "Юрган",
     "logo": "http://www.xn--80af5aj3e.xn--p1ai/assets/images/logo.png",
     "playlist": [
+      "https://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8?version=2",
       "http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8"
     ],
     "scheduleName":"yurgan",

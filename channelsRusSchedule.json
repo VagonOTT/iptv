@@ -1871,62 +1871,6 @@
     }
   },
   {
-    "name": "Sony TV",
-    "logo": "https://iptvxpix.ml/sony-scifi.png",
-    "playlist": [
-      "http://188.113.190.12/149/video.m3u8"
-    ],
-    "scheduleName":"sony-tv",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-  },
-{
-    "name": "Sony Turbo",
-    "logo": "https://iptvxpix.ml/sony-turbo.png",
-    "playlist": [
-      "http://188.113.190.12/149/video.m3u8"
-    ],
-    "scheduleName":"sony-turbo",
-    "geo":0,
-    "is_top":false,
-    "category": "Movies",
-    "languages": [
-      {
-        "code": "rus",
-        "name": "Russian"
-      }
-    ],
-    "countries": [
-      {
-        "code": "ru",
-        "name": "Russia"
-      }
-    ],
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-  },
-  {
     "name": "Родное Кино",
     "logo": null,
     "playlist": [

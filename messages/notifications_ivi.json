@@ -1,7 +1,7 @@
 {
    "success":true,
    "response": {
-            "type":"INFO",
-            "message":""
+            "type":"ATTENTION",
+            "message":"Vagon TV: у некоторых пользователей загружается не полный список каналов. Исправление - в течение недели."
         }
 }

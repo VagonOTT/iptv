@@ -826,8 +826,7 @@
     "name": "Discovery Russia HD",
     "logo": "https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png",
     "playlist": [
-      "http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8",
-      "http://37.192.145.48:81/udp/239.1.17.17:1234"
+      "http://185.97.150.19:8082/12"
     ],
     "scheduleName":"discovery-ru",
     "geo":0,
@@ -855,7 +854,8 @@
     "name": "Discovery Science HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png",
     "playlist": [
-      "http://185.74.4.46:8080/stch_temp10/mpegts"
+      "http://188.113.190.12/37/video.m3u8",
+      "http://185.97.150.19:8082/893"
     ],
     "scheduleName":"discovery-science",
     "geo":0,
@@ -1052,7 +1052,7 @@
     "name": "TV1000 World Kino",
     "logo": "https://iptvxpix.ml/tv1000-worldkino.png",
     "playlist": [
-      "http://185.74.7.220:8080/TV1000/mpegts"
+      "http://188.113.190.12:80/31/video.m3u8"
     ],
     "scheduleName":"tv1000-worldkino",
     "geo":0,
@@ -1080,7 +1080,7 @@
     "name": "TV1000 Action",
     "logo": "https://iptvxpix.ml/tv1000action.png",
     "playlist": [
-      "https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8"
+      "http://176.196.129.10:81/udp/239.255.42.46:1234"
     ],
     "scheduleName":"tv1000-action",
     "geo":0,
@@ -1420,8 +1420,9 @@
     "name": "National Geographic HD",
     "logo": null,
     "playlist": [
-      "http://92.50.221.130:8000/play/a07d/index.m3u8",
-      "https://s3.idata.uz/dars1/tracks-v1a1/rewind-7200.m3u8"
+      "http://188.113.190.12:80/78/video.m3u8",
+      "http://185.97.150.19:8082/377",
+      "http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8"
     ],
     "scheduleName":"",
     "geo":0,
@@ -1536,7 +1537,7 @@
     "name": "Bridge TV",
     "logo": "https://i.imgur.com/L71iY9t.png",
     "playlist": [
-      ""
+      "http://185.52.77.67:8080/Rusong/index.m3u8"
     ],
     "scheduleName":"bridge-tv",
     "geo":0,
@@ -1564,7 +1565,7 @@
     "name": "Russian Musicbox",
     "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg",
     "playlist": [
-      "https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8"
+      "http://185.52.77.67:8080/RussianMBMBR/index.m3u8"
     ],
     "scheduleName":"russian-musicbox",
     "geo":0,
@@ -1817,7 +1818,7 @@
     "name": "Кинопремьера HD",
     "logo": null,
     "playlist": [
-      "http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8"
+      "https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8"
     ],
     "scheduleName":"kinopremiera-hd",
     "geo":0,
@@ -2016,7 +2017,7 @@
     "name": "Киномикс HD",
     "logo": null,
     "playlist": [
-      "http://91.243.97.200:8111/kinomix/index.m3u8",
+      "http://185.97.150.19:8082/131",
       "http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
     ],
     "scheduleName":"kinomiks",
@@ -3887,7 +3888,8 @@
     "name": "Sarafan TV",
     "logo": "https://i.imgur.com/AgX6qoz.png",
     "playlist": [
-      "http://ott-cdn.ucom.am/s38/index.m3u8"
+      "http://188.113.190.12/165/video.m3u8",
+      "http://86.57.178.105:10822"
     ],
     "scheduleName":"",
     "geo":0,

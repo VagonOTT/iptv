@@ -739,9 +739,7 @@
     "name": "Дом Кино Премиум HD",
     "logo": "https://iptvxpix.ml/domkino-premium.png",
     "playlist": [
-      "http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8",
-      "https://sc.id-tv.kz/domkino_hd_38_39.m3u8",
-      "http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8"
+      "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
     "scheduleName":"domkino-premium",
     "geo":0,
@@ -826,7 +824,7 @@
     "name": "Discovery Russia HD",
     "logo": "https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png",
     "playlist": [
-      "http://185.97.150.19:8082/12"
+      "http://edge05.beetv.kz/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8"
     ],
     "scheduleName":"discovery-ru",
     "geo":0,
@@ -883,7 +881,7 @@
     "name": "Discovery Investigation HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",
     "playlist": [
-      "http://myott.top/stream/A4UQA8RA8U/205.m3u8"
+      "http://80.76.245.198:12284/33"
     ],
     "scheduleName":"id-xtra-ru",
     "geo":0,
@@ -1108,7 +1106,7 @@
     "name": "TV1000 Русское кино",
     "logo": "https://iptvxpix.ml/tv1000ruskino.png",
     "playlist": [
-      "http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8"
+      "http://dmitry-tv.ml/hls/CH_TV1000RUSSKOEKINOHD.m3u8"
     ],
     "scheduleName":"tv1000-russkoe-kino",
     "geo":0,
@@ -1302,7 +1300,7 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
-  
+
   {
     "name": "ТНТ",
     "logo": "https://iptvx.one/icn/tnt.png",
@@ -1420,8 +1418,6 @@
     "name": "National Geographic HD",
     "logo": null,
     "playlist": [
-      "http://188.113.190.12:80/78/video.m3u8",
-      "http://185.97.150.19:8082/377",
       "http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8"
     ],
     "scheduleName":"",
@@ -1537,7 +1533,7 @@
     "name": "Bridge TV",
     "logo": "https://i.imgur.com/L71iY9t.png",
     "playlist": [
-      "http://185.52.77.67:8080/Rusong/index.m3u8"
+      "http://188.113.190.12/133/video.m3u8"
     ],
     "scheduleName":"bridge-tv",
     "geo":0,
@@ -1565,7 +1561,7 @@
     "name": "Russian Musicbox",
     "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/russian_musicbox.jpg",
     "playlist": [
-      "http://185.52.77.67:8080/RussianMBMBR/index.m3u8"
+      "https://nsk19.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?"
     ],
     "scheduleName":"russian-musicbox",
     "geo":0,
@@ -1678,7 +1674,7 @@
     "name": "Sony Sci-Fi",
     "logo": "https://iptvxpix.ml/sony-scifi.png",
     "playlist": [
-      "http://185.97.150.19:8082/232"
+      "http://188.113.190.12/23/video.m3u8"
     ],
     "scheduleName":"sony-scifi",
     "geo":0,
@@ -1875,7 +1871,7 @@
     "name": "Родное Кино",
     "logo": null,
     "playlist": [
-      "http://212.76.27.27/btv/SWM/rodnoe_kino/rodnoe_kino_576p_2000kbps.m3u8"
+      "http://82.209.218.116:8181/play/NTV36Bk115/index.m3u8"
     ],
     "scheduleName":"rodnoe-kino",
     "geo":0,
@@ -1903,8 +1899,7 @@
     "name": "Авто Плюс",
     "logo": null,
     "playlist": [
-      "http://185.74.7.220:8080/avtoplyus/mpegts",
-      "http://persik.by/stream/6696/480248/311.m3u8"
+      "http://188.113.190.12/322/video.m3u8"
     ],
     "scheduleName":"avto-plus",
     "geo":0,
@@ -2017,7 +2012,7 @@
     "name": "Киномикс HD",
     "logo": null,
     "playlist": [
-      "http://185.97.150.19:8082/131",
+      "http://83.97.111.172:4022/udp/224.0.45.155:1234?token=zi-1008",
       "http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
     ],
     "scheduleName":"kinomiks",
@@ -2500,7 +2495,7 @@
     "name": "Amedia Hit",
     "logo": null,
     "playlist": [
-      "http://212.76.27.27:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8",
+      "http://edge05.beetv.kz/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8",
       "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
     ],
     "scheduleName":"amedia-hit",
@@ -2585,7 +2580,6 @@
     "name": "Bollywood HD",
     "logo": null,
     "playlist": [
-      "http://212.76.27.29:80/btv/SWM/Bollywood_HD/Bollywood_HD_720p_3500kbps.m3u8",
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
     "scheduleName":"bollywood-hd",
@@ -2872,7 +2866,6 @@
     "name": "Euronews",
     "logo": "https://i.imgur.com/cSZn7dD.png",
     "playlist": [
-      "http://94.230.240.12:8080/euronews/tracks-v1a1/index.m3u8",
       "http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8"
     ],
     "scheduleName":"euronews",
@@ -3014,7 +3007,6 @@
     "name": "Fox Life Russia",
     "logo": null,
     "playlist": [
-      "http://176.222.164.72/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8",
       "http://37.99.5.234/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8",
       "http://176.114.130.10:81/udp/239.100.10.7:1234"
     ],
@@ -4369,7 +4361,7 @@
     "name": "Матч ТВ! Игра HD",
     "logo": "https://s3.beelinetv.uz/buz-production/b5c5b8ad8ededdca8e7c.png",
     "playlist": [
-      "http://188.113.190.12/326/video.m3u8"
+      "http://83.97.111.172:4022/udp/224.0.45.158:1234?token=zi-1008"
     ],
     "scheduleName":"match-igra",
     "geo":0,
@@ -5418,7 +5410,7 @@
     "name": "Волгоград 1",
     "logo": null,
     "playlist": [
-      "https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8"
+      "https://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8?version=2"
     ],
     "scheduleName":"volgograd-1",
     "geo":0,
@@ -5840,7 +5832,7 @@
     "name": "Калейдоскоп ТВ",
     "logo": "http://k-telecom.org/uploadedFiles/images/logo/k_logo_colorblack_RGB.jpg",
     "playlist": [
-      "https://strm.yandex.ru/kal/kaleidoskoptv/kaleidoskoptv0.m3u8"
+      "http://83.97.111.172:4022/udp/224.0.45.182:1234?token=zi-1008"
     ],
     "scheduleName":"kaleydoskop-tv",
     "geo":0,
@@ -5954,7 +5946,6 @@
     "name": "Киносерия HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.200.44/stream.m3u8",
       "http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija.m3u8"
     ],
     "scheduleName":"kinoseria",
@@ -6013,7 +6004,7 @@
     "name": "Кинохит HD",
     "logo": null,
     "playlist": [
-      "http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8",
+      "http://83.97.111.172:4022/udp/224.0.45.153:1234?token=zi-1008",
       "http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8"
     ],
     "scheduleName":"kinoxit",
@@ -7732,7 +7723,7 @@
     "name": "Победа",
     "logo": null,
     "playlist": [
-      "http://212.76.27.27/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8",
+      "http://83.97.111.172:4022/udp/224.0.45.127:1234?token=zi-1008",
       "https://sc.id-tv.kz/Pobeda_34_35.m3u8"
     ],
     "scheduleName":"",
@@ -7817,7 +7808,7 @@
     "name": "Поехали!",
     "logo": null,
     "playlist": [
-      "http://edge04.beetv.kz/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8"
+      "http://83.97.111.172:4022/udp/224.0.45.99:1234?token=zi-1008"
     ],
     "scheduleName":"poexali",
     "geo":0,
@@ -7873,7 +7864,7 @@
     "name": "Продвижение",
     "logo": null,
     "playlist": [
-      "https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0.m3u8"
+      "http://83.97.111.172:4022/udp/224.0.45.124:1234?token=zi-1008"
     ],
     "scheduleName":"prodvizhenie",
     "geo":0,
@@ -9062,7 +9053,7 @@
     "name": "Ю",
     "logo": "https://epg.iptvx.one/icn/yu.png",
     "playlist": [
-      "http://51.68.141.106:8081/tv/u-3sa/playlist.m3u8"
+      "http://83.97.111.172:4022/udp/224.0.45.64:1234?token=zi-1008"
     ],
     "scheduleName":"yu",
     "geo":0,

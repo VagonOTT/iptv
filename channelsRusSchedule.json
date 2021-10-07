@@ -4,7 +4,7 @@
     "logo": "https://i.imgur.com/iW5vhkb.png",
     "playlist": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
-      "https://nsk18.peers.tv/streaming/1kanal/126/variable.m3u8?catid=29&vcid=291&vcver=0&accnt=1tv_tv&tmsec=1tv_tv-hb30-peerstv&",
+      "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?",
       "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8"
     ],
     "scheduleName": "pervy",
@@ -739,7 +739,7 @@
     "name": "Дом Кино Премиум HD",
     "logo": "https://iptvxpix.ml/domkino-premium.png",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n71977036/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0",
+      "http://109.239.128.126:8080/dom_kino_premium_hd/index.m3u8",
       "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
     "scheduleName": "domkino-premium",
@@ -768,7 +768,7 @@
     "name": "Россия 24 HD",
     "logo": "http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_24.jpg",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/7276609/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "https://xx001.vivat.live/t-1.0f6f.d/sd/00381/1m/index.m3u8"
     ],
     "scheduleName": "rossia-24",
     "geo": 0,
@@ -1050,7 +1050,7 @@
     "name": "TV1000 World Kino",
     "logo": "https://iptvxpix.ml/tv1000-worldkino.png",
     "playlist": [
-      "http://188.113.190.12:80/31/video.m3u8"
+      "http://shingaliptv.ru.com/tv1000/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "tv1000-worldkino",
     "geo": 0,
@@ -1078,7 +1078,7 @@
     "name": "TV1000 Action",
     "logo": "https://iptvxpix.ml/tv1000action.png",
     "playlist": [
-      "http://176.196.129.10:81/udp/239.255.42.46:1234"
+      "http://shingaliptv.ru.com/TV1000_ACTION/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "tv1000-action",
     "geo": 0,
@@ -1616,7 +1616,7 @@
     "name": "НТВ",
     "logo": "https://iptvx.one/icn/ntv-white.png",
     "playlist": [
-      "https://nsk18.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?",
+      "https://nsk19.peers.tv/streaming/ntv/16/gvh1w/playlist.m3u8?",
       "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8"
     ],
     "scheduleName": "ntv",
@@ -1673,7 +1673,7 @@
     "name": "Sony Sci-Fi",
     "logo": "https://iptvxpix.ml/sony-scifi.png",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n251e7c24/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8"
     ],
     "scheduleName": "sony-scifi",
     "geo": 0,
@@ -2211,7 +2211,7 @@
     "name": "8 Канал",
     "logo": "http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png",
     "playlist": [
-      "https://nsk18.peers.tv/streaming/8_kanal/16/gvh1w/playlist.m3u8?",
+      "https://nsk19.peers.tv/streaming/8_kanal/16/gvh1w/playlist.m3u8?",
       "http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8"
     ],
     "scheduleName": "8kanal-ru",
@@ -2268,7 +2268,7 @@
     "name": "Русский Роман",
     "logo": "Movies",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/7c95abda/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "http://81.23.184.87:81/udp/234.0.0.224:2000?zi/"
     ],
     "scheduleName": "russky-roman",
     "geo": 0,
@@ -2296,7 +2296,7 @@
     "name": "Русский Бестселлер",
     "logo": null,
     "playlist": [
-      "http://62.182.50.250:4022/udp/238.1.1.112:1234?zi/"
+      "http://81.23.184.87:81/udp/234.0.0.250:2000?zi/"
     ],
     "scheduleName": "russky-bestseller",
     "geo": 0,
@@ -2324,7 +2324,7 @@
     "name": "Русский Детектив",
     "logo": null,
     "playlist": [
-      "http://server002.dreamstar.ru.com/russia/russkij_detektiv_sd_new/playlist.m3u8"
+      "http://109.239.128.126:8080/rus_detektiv/index.m3u8"
     ],
     "scheduleName": "russky-detektiv",
     "geo": 0,
@@ -2381,7 +2381,7 @@
     "logo": "https://iptvxpix.ml/tvxxi.png",
     "playlist": [
       "http://188.40.68.167/russia/xxi/playlist.m3u8",
-      "https://nsk18.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
+      "https://nsk19.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?"
     ],
     "scheduleName": "tvxxi",
     "geo": 0,
@@ -2579,7 +2579,7 @@
     "name": "Bollywood HD",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/4b6eddb6/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0",
+      "http://5.34.50.236/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8",
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
     "scheduleName": "bollywood-hd",
@@ -2749,7 +2749,7 @@
     "name": "Cartoon Network",
     "logo": null,
     "playlist": [
-      "https://nsk18.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?",
+      "https://nsk19.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8?",
       "http://persik.by/stream/6696/480248/805.m3u8"
     ],
     "scheduleName": "cartoon-network",
@@ -2806,7 +2806,7 @@
     "name": "Da Vinci",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/2ebc4a5a/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "https://xx001.vivat.live/t-1.0f6f.d/sd/00394/2m/index.m3u8"
     ],
     "scheduleName": "da-vinci",
     "geo": 0,
@@ -3486,7 +3486,7 @@
     "name": "Nat Geo Wild HD Russia",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/6c3e05fb/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "http://pro100tv.my1.ru/ote27/nat_geo_wild.txt.m3u"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -3937,7 +3937,7 @@
     "name": "Shot TV",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n364f1bd8/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0",
+      "http://pro100tv.my1.ru/per/Shot.m3u8",
       "http://37.17.14.149:8905/play/a00m"
     ],
     "scheduleName": "shot-tv",
@@ -3994,7 +3994,7 @@
     "name": "Star Cinema HD",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n1f1ee0a1/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0",
+      "http://178.33.37.66/stream/SVLCLZXWP1/310.m3u8",
       "http://95.67.12.94:9001"
     ],
     "scheduleName": "star-cinema",
@@ -5976,9 +5976,7 @@
     "name": "Киносемья HD",
     "logo": "https://iptvxpix.ml/kinosemia.png",
     "playlist": [
-      "http://hlstv.brn.211.ru/239.211.211.140/stream.m3u8",
-      "http://persik.by/stream/6696/480248/10330.m3u8",
-      "http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
+      "https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
     ],
     "scheduleName": "kinosemiya",
     "geo": 0,
@@ -6006,8 +6004,8 @@
     "name": "Кинохит HD",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n71072c18/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0",
-      "http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8"
+      "http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8",
+      "https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8"
     ],
     "scheduleName": "kinoxit",
     "geo": 0,
@@ -6035,7 +6033,7 @@
     "name": "Классика Кино",
     "logo": null,
     "playlist": [
-      "https://nsk18.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8?"
+      "https://nsk19.peers.tv/streaming/klassikakino/16/gvh1w/playlist.m3u8?"
     ],
     "scheduleName": "klassika-kino",
     "geo": 0,
@@ -6063,7 +6061,7 @@
     "name": "НТВ-Сериал",
     "logo": "https://iptvxpix.ml/ntv-serial.png",
     "playlist": [
-      "https://nsk18.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?"
+      "https://nsk19.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8?"
     ],
     "scheduleName": "ntv-serial",
     "geo": 0,
@@ -6091,7 +6089,7 @@
     "name": "Комедийное HD",
     "logo": null,
     "playlist": [
-      "http://185.162.8.175:6878/ace/manifest.m3u8?id=da116afe3adb4831f53e87d118b1f8c650b719d8"
+      "http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8"
     ],
     "scheduleName": "kinopokaz-hd2",
     "geo": 0,
@@ -6852,8 +6850,8 @@
     "name": "Дом кино",
     "logo": null,
     "playlist": [
-      "https://nsk18.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?",
-      "http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8"
+      "https://nsk19.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?",
+      "http://81.23.184.87:81/udp/234.0.0.219:2000?zi/"
     ],
     "scheduleName": "domkino",
     "geo": 0,
@@ -7499,7 +7497,7 @@
     "name": "Остросюжетное FHD",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n70cc8326/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "https://xx001.vivat.live/t-1.0f6f.d/sd/00535/2m/index.m3u8"
     ],
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,
@@ -7527,7 +7525,7 @@
     "name": "Остросюжетное HD",
     "logo": null,
     "playlist": [
-      "http://178.33.37.66/stream/D65SQP6QZR/214.m3u8"
+      "https://xx001.vivat.live/t-1.0f6f.d/sd/00535/2m/index.m3u8"
     ],
     "scheduleName": "ostrosiuzhetnoe-hd",
     "geo": 0,

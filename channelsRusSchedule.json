@@ -2098,7 +2098,7 @@
     "name": "31 канал",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n69c90234/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "https://sc.id-tv.kz/31Kanal.m3u8"
     ],
     "scheduleName": "31-kanal-chelyabinsk",
     "geo": 0,
@@ -3120,9 +3120,7 @@
     "name": "HDL",
     "logo": null,
     "playlist": [
-      "http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8",
-      "https://sc.id-tv.kz/hdl_34_35.m3u8",
-      "https://sc.id-tv.kz/hdl_38_39.m3u8"
+      "https://sc.id-tv.kz/hdl_34_35.m3u8"
     ],
     "scheduleName": "hd-life",
     "geo": 0,
@@ -3626,7 +3624,7 @@
     "name": "Победа TV",
     "logo": "https://i.imgur.com/DOtCK9V.png",
     "playlist": [
-      "http://ott-cdn.ucom.am/s47/index.m3u8"
+      "http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8"
     ],
     "scheduleName": "pobeda",
     "geo": 0,
@@ -3994,7 +3992,6 @@
     "name": "Star Cinema HD",
     "logo": null,
     "playlist": [
-      "http://178.33.37.66/stream/SVLCLZXWP1/310.m3u8",
       "http://95.67.12.94:9001"
     ],
     "scheduleName": "star-cinema",
@@ -6821,7 +6818,6 @@
     "name": "Мужское кино HD",
     "logo": null,
     "playlist": [
-      "http://87.247.44.26/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD_1080p_5000kbps.m3u8",
       "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8"
     ],
     "scheduleName": "muzhskoe-kino",
@@ -7808,7 +7804,7 @@
     "name": "Поехали!",
     "logo": null,
     "playlist": [
-      "http://83.97.111.172:4022/udp/224.0.45.99:1234?token=zi-1008"
+      "http://212.76.29.27/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8"
     ],
     "scheduleName": "poexali",
     "geo": 0,
@@ -8715,7 +8711,7 @@
     "name": "ТВЦ",
     "logo": null,
     "playlist": [
-      "http://178.163.98.110:81/udp/234.0.0.192:2000"
+      "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8"
     ],
     "scheduleName": "tvcentr",
     "geo": 0,
@@ -9053,7 +9049,7 @@
     "name": "Ю",
     "logo": "https://epg.iptvx.one/icn/yu.png",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/na40d0ce/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2"
     ],
     "scheduleName": "yu",
     "geo": 0,
@@ -9081,7 +9077,7 @@
     "name": "ЧЕ",
     "logo": "https://www.cableman.ru/sites/default/files/che_0.png?1534317842",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n3dd94596/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2"
     ],
     "scheduleName": "che",
     "geo": 0,

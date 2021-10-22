@@ -2037,6 +2037,62 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
+   {
+    "name": "Оплот ТВ",
+    "logo": null,
+    "playlist": [
+      "http://185.114.136.25/oplot-tv?streamType=live"
+    ],
+    "scheduleName": "",
+    "geo": 0,
+    "is_top": false,
+    "category": "News",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": "ratnik",
+      "name": "Ратник",
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+   {
+    "name": "Новороссия ТВ",
+    "logo": null,
+    "playlist": [
+      "http://ott.inmart.tv:8081/19/index.m3u8"
+    ],
+    "scheduleName": "",
+    "geo": 0,
+    "is_top": false,
+    "category": "News",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": "ratnik",
+      "name": "Ратник",
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
   {
     "name": "Ратник",
     "logo": null,

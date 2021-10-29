@@ -4330,10 +4330,7 @@
     "name": "Матч ТВ",
     "logo": "https://i.imgur.com/ud7AVaF.png",
     "playlist": [
-      "https://s4.idata.uz/matchHD/index.m3u8",
-      "http://188.168.76.125:81/udp/238.1.1.4:1234",
-      "http://178.163.102.11:4022/udp/234.0.0.204:2000",
-      "http://176.196.129.10:81/udp/239.255.41.103:1234"
+      "http://185.228.135.48:8080/tv_match_tv_hd/index.m3u8"
     ],
     "scheduleName": "match-tv",
     "geo": 0,
@@ -4361,7 +4358,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://rosintel.ru/img/tv_icons/big/19800match_premiere_logo_big_format_200x150.png",
     "playlist": [
-      "https://185-106-121-101.livesports24.online/mpremierrus.m3u8"
+      "http://185.228.135.48:8080/tv_ntvplus_match_premier_hd/index.m3u8"
     ],
     "scheduleName": "match-premier",
     "geo": 0,
@@ -4389,7 +4386,7 @@
     "name": "Матч ТВ! Боец",
     "logo": "https://www.cableman.ru/sites/default/files/match_boec.png?1530015912",
     "playlist": [
-      "http://cdntv.online/high/e39cy5skaw/50.m3u8"
+      "http://185.228.135.48:8080/tv_match_boets_sd/index.m3u8"
     ],
     "scheduleName": "match-boets",
     "geo": 0,
@@ -4417,7 +4414,7 @@
     "name": "Матч ТВ! Игра HD",
     "logo": "https://s3.beelinetv.uz/buz-production/b5c5b8ad8ededdca8e7c.png",
     "playlist": [
-      "http://62.182.50.250:4022/udp/238.1.0.129:1234?zi/"
+      "http://185.228.135.48:8080/tv_match_igra_hd/index.m3u8"
     ],
     "scheduleName": "match-igra",
     "geo": 0,

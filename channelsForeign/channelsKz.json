@@ -515,7 +515,8 @@
     "logo": "https://i.imgur.com/iW5vhkb.png",
     "playlist": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
-      "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?"
+      "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?",
+      "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8"
     ],
     "scheduleName": "pervy",
     "geo": 0,
@@ -1249,7 +1250,6 @@
     "name": "Дом Кино Премиум HD",
     "logo": "https://iptvxpix.ml/domkino-premium.png",
     "playlist": [
-      "http://109.239.128.126:8080/dom_kino_premium_hd/index.m3u8",
       "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
     "scheduleName": "domkino-premium",
@@ -1531,8 +1531,7 @@
     "name": "Кинокомедия HD",
     "logo": null,
     "playlist": [
-      "http://185.228.135.48:8080/tv_kinokomediya_hd/tracks-v1a1/index.m3u8?token=em9uYS1pcHR2LnJ1",
-      "http://37da0f1aakdj.rostelekom.xyz/iptv/2D9FA34AKF6K7R/145/index.m3u8",
+      "http://212.76.29.27/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8",
       "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8"
     ],
     "scheduleName": "kinokomedia",
@@ -1561,7 +1560,7 @@
     "name": "TV1000 World Kino",
     "logo": "https://iptvxpix.ml/tv1000-worldkino.png",
     "playlist": [
-      "http://shingaliptv.ru.com/tv1000/tracks-v1a1/mono.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8"
     ],
     "scheduleName": "tv1000-worldkino",
     "geo": 0,
@@ -2381,7 +2380,7 @@
     "name": "Родное Кино",
     "logo": null,
     "playlist": [
-      "http://109.239.128.126:8080/rodnoe_kino/tracks-v2a1/mono.m3u8"
+      "https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8"
     ],
     "scheduleName": "rodnoe-kino",
     "geo": 0,
@@ -3005,7 +3004,6 @@
     "name": "Amedia Hit",
     "logo": null,
     "playlist": [
-      "http://cdntv.online/high/e39cy5skaw/499.m3u8",
       "https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8"
     ],
     "scheduleName": "amedia-hit",
@@ -3995,7 +3993,7 @@
     "name": "Nat Geo Wild HD Russia",
     "logo": null,
     "playlist": [
-      "http://pro100tv.my1.ru/ote27/nat_geo_wild.txt.m3u"
+      "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -4784,10 +4782,7 @@
     "name": "Матч ТВ",
     "logo": "https://i.imgur.com/ud7AVaF.png",
     "playlist": [
-      "https://s4.idata.uz/matchHD/index.m3u8",
-      "http://188.168.76.125:81/udp/238.1.1.4:1234",
-      "http://178.163.102.11:4022/udp/234.0.0.204:2000",
-      "http://176.196.129.10:81/udp/239.255.41.103:1234"
+      "http://185.228.135.48:8080/tv_match_tv_hd/index.m3u8"
     ],
     "scheduleName": "match-tv",
     "geo": 0,
@@ -4815,7 +4810,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://rosintel.ru/img/tv_icons/big/19800match_premiere_logo_big_format_200x150.png",
     "playlist": [
-      "https://185-106-121-101.livesports24.online/mpremierrus.m3u8"
+      "http://185.228.135.48:8080/tv_ntvplus_match_premier_hd/index.m3u8"
     ],
     "scheduleName": "match-premier",
     "geo": 0,
@@ -4843,7 +4838,7 @@
     "name": "Матч ТВ! Боец",
     "logo": "https://www.cableman.ru/sites/default/files/match_boec.png?1530015912",
     "playlist": [
-      "http://cdntv.online/high/e39cy5skaw/50.m3u8"
+      "http://185.228.135.48:8080/tv_match_boets_sd/index.m3u8"
     ],
     "scheduleName": "match-boets",
     "geo": 0,
@@ -4871,7 +4866,7 @@
     "name": "Матч ТВ! Игра HD",
     "logo": "https://s3.beelinetv.uz/buz-production/b5c5b8ad8ededdca8e7c.png",
     "playlist": [
-      "http://62.182.50.250:4022/udp/238.1.0.129:1234?zi/"
+      "http://185.228.135.48:8080/tv_match_igra_hd/index.m3u8"
     ],
     "scheduleName": "match-igra",
     "geo": 0,
@@ -6512,8 +6507,7 @@
     "name": "Кинохит HD",
     "logo": null,
     "playlist": [
-      "http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8",
-      "https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8"
+      "https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8"
     ],
     "scheduleName": "kinoxit",
     "geo": 0,

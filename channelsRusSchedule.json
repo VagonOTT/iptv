@@ -739,6 +739,7 @@
     "name": "Дом Кино Премиум HD",
     "logo": "https://iptvxpix.ml/domkino-premium.png",
     "playlist": [
+      "http://46.34.209.243:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8",
       "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
     ],
     "scheduleName": "domkino-premium",
@@ -824,7 +825,7 @@
     "name": "Discovery Russia HD",
     "logo": "https://seeklogo.com/images/D/discovery-logo-F9B62F9429-seeklogo.com.png",
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/38c36f7a/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8"
     ],
     "scheduleName": "discovery-ru",
     "geo": 0,
@@ -880,7 +881,7 @@
     "name": "Discovery Investigation HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",
     "playlist": [
-      "http://80.76.245.198:12284/33"
+      "http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/51073/hlsx/pl.m3u8"
     ],
     "scheduleName": "id-xtra-ru",
     "geo": 0,
@@ -1925,7 +1926,7 @@
     "name": "Индийское кино",
     "logo": null,
     "playlist": [
-      "http://cdntv.online/high/e39cy5skaw/115.m3u8"
+      "http://46.174.83.66/Indiiskoe_kino/mpegts"
     ],
     "scheduleName": "indiyskoe-kino",
     "geo": 0,
@@ -2035,7 +2036,7 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
-   {
+  {
     "name": "Оплот ТВ",
     "logo": null,
     "playlist": [
@@ -2063,7 +2064,7 @@
       "url": "https://iptvx.one/epg/epg.xml.gz"
     }
   },
-   {
+  {
     "name": "Новороссия ТВ",
     "logo": null,
     "playlist": [
@@ -4777,7 +4778,7 @@
     "name": "VIVA Russia",
     "logo": null,
     "playlist": [
-      "https://tv.kdim.ru:7371/channel/n1b023c96/index.m3u8?q=fb3e4bd9f128dd88e52bcb1767b756f0"
+      "https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -5966,7 +5967,7 @@
     "name": "Киносвидание HD",
     "logo": null,
     "playlist": [
-      "http://94.154.83.88:10000/kinosvidanie",
+      "http://78.58.133.179:28000/play/a068/index.m3u8",
       "http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8",
       "https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8"
     ],
@@ -5996,7 +5997,7 @@
     "name": "Киносерия HD",
     "logo": null,
     "playlist": [
-      "http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija.m3u8"
+      "http://46.34.209.244:80/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8"
     ],
     "scheduleName": "kinoseria",
     "geo": 0,
@@ -6052,6 +6053,7 @@
     "name": "Кинохит HD",
     "logo": null,
     "playlist": [
+      "http://78.58.133.179:28000/play/a075/index.m3u8",
       "https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8"
     ],
     "scheduleName": "kinoxit",
@@ -6868,7 +6870,7 @@
     "name": "Мужское кино HD",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8"
+      "http://212.76.29.26:80/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD.m3u8"
     ],
     "scheduleName": "muzhskoe-kino",
     "geo": 0,

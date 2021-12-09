@@ -2324,7 +2324,7 @@
     "name": "Русский Роман",
     "logo": "Movies",
     "playlist": [
-      "http://81.23.184.87:81/udp/234.0.0.224:2000?zi/"
+      "http://31.130.20.194:81/udp/239.1.11.14:1234?zi/"
     ],
     "scheduleName": "russky-roman",
     "geo": 0,
@@ -2352,7 +2352,7 @@
     "name": "Русский Бестселлер",
     "logo": null,
     "playlist": [
-      "http://81.23.184.87:81/udp/234.0.0.250:2000?zi/"
+      "http://31.130.20.194:81/udp/239.1.11.16:1234?zi"
     ],
     "scheduleName": "russky-bestseller",
     "geo": 0,
@@ -2380,7 +2380,7 @@
     "name": "Русский Детектив",
     "logo": null,
     "playlist": [
-      "http://109.239.128.126:8080/rus_detektiv/index.m3u8"
+      "http://31.130.20.194:81/udp/239.1.11.12:1234?zi/"
     ],
     "scheduleName": "russky-detektiv",
     "geo": 0,
@@ -6899,7 +6899,7 @@
     "logo": null,
     "playlist": [
       "https://nsk19.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8?",
-      "http://81.23.184.87:81/udp/234.0.0.219:2000?zi/"
+      "http://212.76.29.26:80/btv/SWM/Dom_Kino/Dom_Kino.m3u8"
     ],
     "scheduleName": "domkino",
     "geo": 0,
@@ -8511,7 +8511,7 @@
     "name": "СТРК HD",
     "logo": null,
     "playlist": [
-      "http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8"
+      "http://sochi-strk.ru:2015/STRK/mpegts"
     ],
     "scheduleName": "strk",
     "geo": 0,

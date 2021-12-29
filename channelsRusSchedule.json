@@ -5,7 +5,9 @@
     "playlist": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8",
       "https://nsk19.peers.tv/streaming/1kanal/126/variable.m3u8?",
-      "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8"
+      "http://78.58.133.179:28000/play/a002/index.m3u8",
+      "http://91.192.168.251:5050",
+      "http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2"
     ],
     "scheduleName": "pervy",
     "geo": 0,

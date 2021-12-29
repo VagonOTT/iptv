@@ -741,8 +741,7 @@
     "name": "Дом Кино Премиум HD",
     "logo": "https://iptvxpix.ml/domkino-premium.png",
     "playlist": [
-      "http://46.34.209.243:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8",
-      "https://sc.id-tv.kz/domkino_hd_38_39.m3u8"
+      "https://sc.id-tv.kz/domkino_hd_34_35.m3u8"
     ],
     "scheduleName": "domkino-premium",
     "geo": 0,
@@ -855,7 +854,7 @@
     "name": "Discovery Science HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Discovery_Science_channel_logo.png",
     "playlist": [
-      "http://37da0f1aakdj.rostelekom.xyz/iptv/2D9FA34AKF6K7R/136/index.m3u8"
+      "http://31.173.178.110:8004/play/a09r/index.m3u8"
     ],
     "scheduleName": "discovery-science",
     "geo": 0,
@@ -1278,7 +1277,7 @@
     "name": "Мультиландия",
     "logo": null,
     "playlist": [
-      "http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8"
+      "https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8"
     ],
     "scheduleName": "multimania",
     "geo": 0,
@@ -1531,10 +1530,10 @@
     }
   },
   {
-    "name": "Bridge TV",
+      "name": "Bridge TV",
     "logo": "https://i.imgur.com/L71iY9t.png",
     "playlist": [
-      "http://83.246.178.12:81/udp/239.54.5.9:1224?zi/"
+      "https://stream.sputnik24.tv/bridge/index.m3u8"
     ],
     "scheduleName": "bridge-tv",
     "geo": 0,
@@ -1815,7 +1814,7 @@
     "name": "Кинопремьера HD",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8"
+      "http://193.33.88.172/premiera/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "kinopremiera-hd",
     "geo": 0,
@@ -1843,8 +1842,7 @@
     "name": "Дорама",
     "logo": "https://i.imgur.com/lHn6OlM.png",
     "playlist": [
-      "http://46.34.209.243:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8",
-      "http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8"
+      "https://sc.id-tv.kz/dorama_hd_34_35.m3u8"
     ],
     "scheduleName": "dorama",
     "geo": 0,
@@ -1872,7 +1870,7 @@
     "name": "Родное Кино",
     "logo": null,
     "playlist": [
-      "https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8"
+      "http://193.33.88.172/nashe-kino/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "rodnoe-kino",
     "geo": 0,
@@ -2013,8 +2011,7 @@
     "name": "Киномикс HD",
     "logo": null,
     "playlist": [
-      "http://83.97.111.172:4022/udp/224.0.45.155:1234?token=zi-1008",
-      "http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8"
+      "http://78.58.133.179:28000/play/a070/index.m3u8"
     ],
     "scheduleName": "kinomiks",
     "geo": 0,
@@ -2042,7 +2039,7 @@
     "name": "Оплот ТВ",
     "logo": null,
     "playlist": [
-      "http://185.114.136.25/oplot-tv?streamType=live"
+      "http://ott.inmart.tv:8081/54/index.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -2636,7 +2633,6 @@
     "name": "Bollywood HD",
     "logo": null,
     "playlist": [
-      "http://5.34.50.236/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8",
       "https://sc.id-tv.kz/bollywood_hd_34_35.m3u8"
     ],
     "scheduleName": "bollywood-hd",
@@ -2863,7 +2859,7 @@
     "name": "Da Vinci",
     "logo": null,
     "playlist": [
-      "https://xx001.vivat.live/t-1.0f6f.d/sd/00394/2m/index.m3u8"
+      "https://sc.id-tv.kz/DaVinci_34_35.m3u8"
     ],
     "scheduleName": "da-vinci",
     "geo": 0,
@@ -3064,8 +3060,7 @@
     "name": "Fox Life Russia",
     "logo": null,
     "playlist": [
-      "http://37.99.5.234/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8",
-      "http://176.114.130.10:81/udp/239.100.10.7:1234"
+      "https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8"
     ],
     "scheduleName": "foxlife",
     "geo": 0,
@@ -3373,7 +3368,7 @@
     "name": "Metal TV",
     "logo": null,
     "playlist": [
-      "http://v1.catcast.me/content/33816/index.m3u8"
+      "https://v2.catcast.tv/content/33816/index.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -3935,7 +3930,6 @@
     "name": "Sarafan TV",
     "logo": "https://i.imgur.com/AgX6qoz.png",
     "playlist": [
-      "http://188.113.190.12/165/video.m3u8",
       "http://86.57.178.105:10822"
     ],
     "scheduleName": "",
@@ -4358,7 +4352,7 @@
     "name": "Матч ТВ! Премьер HD",
     "logo": "https://rosintel.ru/img/tv_icons/big/19800match_premiere_logo_big_format_200x150.png",
     "playlist": [
-      "http://185.228.135.48:8080/tv_ntvplus_match_premier_hd/index.m3u8"
+      "http://213.226.137.133:81/tl/l74/mpegts"
     ],
     "scheduleName": "match-premier",
     "geo": 0,
@@ -4442,7 +4436,7 @@
     "name": "Eurosport 1",
     "logo": null,
     "playlist": [
-      "http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8"
+      "https://95-213-224-180.livesports24.online/eurosport1ru.m3u8"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -4470,9 +4464,7 @@
     "name": "Eurosport 2",
     "logo": null,
     "playlist": [
-      "http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8",
-      "https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?source:iptvmate.net",
-      "http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8"
+      "http://213.226.137.133:81/tl/l326/mpegts"
     ],
     "scheduleName": "",
     "geo": 0,
@@ -5999,7 +5991,7 @@
     "name": "Киносерия HD",
     "logo": null,
     "playlist": [
-      "http://46.34.209.244:80/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8"
+      "hhttp://193.33.88.172/mnogo-tv/tracks-v1a1/mono.m3u8"
     ],
     "scheduleName": "kinoseria",
     "geo": 0,
@@ -6027,7 +6019,7 @@
     "name": "Киносемья HD",
     "logo": "https://iptvxpix.ml/kinosemia.png",
     "playlist": [
-      "https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8"
+      "http://31.173.178.110:8004/play/a090/index.m3u8"
     ],
     "scheduleName": "kinosemiya",
     "geo": 0,
@@ -6055,7 +6047,7 @@
     "name": "Кинохит HD",
     "logo": null,
     "playlist": [
-      "http://78.58.133.179:28000/play/a075/index.m3u8",
+      "http://185.129.1.242:80/kinoxit/mpegts",
       "https://sc.id-tv.kz/Kinohit_hd_38_39.m3u8"
     ],
     "scheduleName": "kinoxit",

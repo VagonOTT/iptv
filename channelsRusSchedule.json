@@ -8563,6 +8563,35 @@
     }
   },
   {
+    "name": "TLC",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/185px-TLC_Logo.svg.png,
+    "playlist": [
+      "https://sc.id-tv.kz/TLCHD_34_35.m3u8",
+      "http://31.173.178.110:8104/play/a0bl/index.m3u8"
+    ],
+    "scheduleName": "tlc",
+    "geo": 0,
+    "is_top": false,
+    "category": "Entertainment",
+    "languages": [
+      {
+        "code": "rus",
+        "name": "Russian"
+      }
+    ],
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ],
+    "tvg": {
+      "id": "utv-cheboxary",
+      "name": "ЮТВ Чебоксары",
+      "url": "https://iptvx.one/epg/epg.xml.gz"
+    }
+  },
+  {
     "name": "ЮТВ (Чебоксары)",
     "logo": null,
     "playlist": [

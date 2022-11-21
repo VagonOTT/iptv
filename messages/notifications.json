@@ -1,7 +1,7 @@
 {
    "success":true,
    "response": {
-            "type":"ATTENTION",
-            "message":""
+            "type":"INFO",
+            "message":"Смотрите Чемпионат мира по футболу 2022 в Катаре с подпиской Спорт!"
         }
 }
